@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "Encuadre — Full Page Screenshots"
+  },
+  "extensionDescription": {
+    "message": "Capture full pages or the visible area, try phone screen sizes, and export as PNG, JPEG, or PDF. No account needed."
+  },
+  "actionTitle": {
+    "message": "Encuadre · Capture and try screen sizes"
+  },
+  "captureFullPage": {
+    "message": "Capture full page"
+  }
+}

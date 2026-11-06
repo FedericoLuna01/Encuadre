@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "Encuadre — Capturas de página completa"
+  },
+  "extensionDescription": {
+    "message": "Capturá páginas completas o su parte visible, probá tamaños de celular y exportá en PNG, JPEG o PDF. Sin cuenta."
+  },
+  "actionTitle": {
+    "message": "Encuadre · Capturar y probar tamaños"
+  },
+  "captureFullPage": {
+    "message": "Capturar página completa"
+  }
+}

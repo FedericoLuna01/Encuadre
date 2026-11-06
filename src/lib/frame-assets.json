@@ -1,0 +1,4370 @@
+{
+  "iphone-se": {
+    "frame": "/frames/iphone-se-black.png",
+    "mask": "/frames/iphone-se-red-mask.png",
+    "width": 871,
+    "height": 1776,
+    "screen": {
+      "x": 61,
+      "y": 219,
+      "width": 750,
+      "height": 1334
+    },
+    "landscape": {
+      "frame": "/frames/iphone-se-black-landscape.png",
+      "mask": "/frames/iphone-se-red-landscape-mask.png",
+      "width": 1776,
+      "height": 871,
+      "screen": {
+        "x": 223,
+        "y": 61,
+        "width": 1334,
+        "height": 750
+      }
+    }
+  },
+  "iphone-13": {
+    "frame": "/frames/iphone-13.png",
+    "mask": "/frames/iphone-13-mask.png",
+    "width": 1314,
+    "height": 2661,
+    "screen": {
+      "x": 72,
+      "y": 64,
+      "width": 1170,
+      "height": 2532
+    },
+    "landscape": {
+      "frame": "/frames/iphone-13-landscape.png",
+      "mask": "/frames/iphone-13-landscape-mask.png",
+      "width": 2661,
+      "height": 1314,
+      "screen": {
+        "x": 65,
+        "y": 72,
+        "width": 2532,
+        "height": 1170
+      }
+    }
+  },
+  "iphone-14-pro": {
+    "frame": "/frames/iphone-14-pro.png",
+    "mask": "/frames/iphone-14-pro-mask.png",
+    "width": 1311,
+    "height": 2672,
+    "screen": {
+      "x": 68,
+      "y": 58,
+      "width": 1179,
+      "height": 2556
+    },
+    "landscape": {
+      "frame": "/frames/iphone-14-pro-landscape.png",
+      "mask": "/frames/iphone-14-pro-landscape-mask.png",
+      "width": 2672,
+      "height": 1311,
+      "screen": {
+        "x": 58,
+        "y": 68,
+        "width": 2556,
+        "height": 1179
+      }
+    }
+  },
+  "iphone-15": {
+    "frame": "/frames/iphone-15.png",
+    "mask": "/frames/iphone-15-mask.png",
+    "width": 1316,
+    "height": 2674,
+    "screen": {
+      "x": 70,
+      "y": 59,
+      "width": 1179,
+      "height": 2556
+    },
+    "landscape": {
+      "frame": "/frames/iphone-15-landscape.png",
+      "mask": "/frames/iphone-15-landscape-mask.png",
+      "width": 2674,
+      "height": 1316,
+      "screen": {
+        "x": 59,
+        "y": 70,
+        "width": 2556,
+        "height": 1179
+      }
+    }
+  },
+  "iphone-15-pro": {
+    "frame": "/frames/iphone-15-pro.png",
+    "mask": "/frames/iphone-15-pro-mask.png",
+    "width": 1293,
+    "height": 2656,
+    "screen": {
+      "x": 58,
+      "y": 50,
+      "width": 1179,
+      "height": 2556
+    },
+    "landscape": {
+      "frame": "/frames/iphone-15-pro-landscape.png",
+      "mask": "/frames/iphone-15-pro-landscape-mask.png",
+      "width": 2656,
+      "height": 1293,
+      "screen": {
+        "x": 50,
+        "y": 58,
+        "width": 2556,
+        "height": 1179
+      }
+    }
+  },
+  "iphone-15-pro-max": {
+    "frame": "/frames/iphone-15-pro-max.png",
+    "mask": "/frames/iphone-15-pro-max-mask.png",
+    "width": 1405,
+    "height": 2896,
+    "screen": {
+      "x": 57,
+      "y": 50,
+      "width": 1290,
+      "height": 2796
+    },
+    "landscape": {
+      "frame": "/frames/iphone-15-pro-max-landscape.png",
+      "mask": "/frames/iphone-15-pro-max-landscape-mask.png",
+      "width": 2896,
+      "height": 1405,
+      "screen": {
+        "x": 50,
+        "y": 57,
+        "width": 2796,
+        "height": 1290
+      }
+    }
+  },
+  "iphone-16": {
+    "frame": "/frames/iphone-16.png",
+    "mask": "/frames/iphone-16-mask.png",
+    "width": 1313,
+    "height": 2674,
+    "screen": {
+      "x": 67,
+      "y": 59,
+      "width": 1179,
+      "height": 2556
+    },
+    "landscape": {
+      "frame": "/frames/iphone-16-landscape.png",
+      "mask": "/frames/iphone-16-landscape-mask.png",
+      "width": 2674,
+      "height": 1313,
+      "screen": {
+        "x": 59,
+        "y": 67,
+        "width": 2556,
+        "height": 1179
+      }
+    }
+  },
+  "galaxy-s24": {
+    "frame": "/frames/galaxy-s24.png",
+    "mask": "/frames/galaxy-s24-mask.png",
+    "width": 386,
+    "height": 800,
+    "screen": {
+      "x": 14,
+      "y": 15,
+      "width": 356,
+      "height": 771
+    },
+    "landscape": {
+      "frame": "/frames/galaxy-s24-landscape.png",
+      "mask": "/frames/galaxy-s24-landscape-mask.png",
+      "width": 800,
+      "height": 386,
+      "screen": {
+        "x": 14,
+        "y": 14,
+        "width": 771,
+        "height": 356
+      }
+    }
+  },
+  "galaxy-s24-ultra": {
+    "frame": "/frames/galaxy-s24-ultra.png",
+    "mask": "/frames/galaxy-s24-ultra-mask.png",
+    "width": 391,
+    "height": 800,
+    "screen": {
+      "x": 17,
+      "y": 15,
+      "width": 355,
+      "height": 768
+    },
+    "landscape": {
+      "frame": "/frames/galaxy-s24-ultra-landscape.png",
+      "mask": "/frames/galaxy-s24-ultra-landscape-mask.png",
+      "width": 800,
+      "height": 391,
+      "screen": {
+        "x": 17,
+        "y": 17,
+        "width": 768,
+        "height": 355
+      }
+    }
+  },
+  "pixel-8": {
+    "frame": "/frames/pixel-8.png",
+    "mask": "/frames/pixel-8-mask.png",
+    "width": 1267,
+    "height": 2667,
+    "screen": {
+      "x": 57,
+      "y": 57,
+      "width": 1145,
+      "height": 2549
+    },
+    "landscape": {
+      "frame": "/frames/pixel-8-landscape.png",
+      "mask": "/frames/pixel-8-landscape-mask.png",
+      "width": 2667,
+      "height": 1267,
+      "screen": {
+        "x": 61,
+        "y": 57,
+        "width": 2549,
+        "height": 1145
+      }
+    }
+  },
+  "ipad-air": {
+    "frame": "/frames/ipad-air.png",
+    "mask": "/frames/ipad-air-mask.png",
+    "width": 1864,
+    "height": 2584,
+    "screen": {
+      "x": 110,
+      "y": 114,
+      "width": 1640,
+      "height": 2360
+    },
+    "landscape": {
+      "frame": "/frames/ipad-air-landscape.png",
+      "mask": "/frames/ipad-air-landscape-mask.png",
+      "width": 2584,
+      "height": 1864,
+      "screen": {
+        "x": 110,
+        "y": 110,
+        "width": 2360,
+        "height": 1640
+      }
+    }
+  },
+  "iphone-11-black": {
+    "frame": "/frames/iphone-11-black.png",
+    "mask": "/frames/iphone-11-red-mask.png",
+    "width": 979,
+    "height": 1934,
+    "screen": {
+      "x": 75,
+      "y": 71,
+      "width": 828,
+      "height": 1792
+    },
+    "landscape": {
+      "frame": "/frames/iphone-11-black-landscape.png",
+      "mask": "/frames/iphone-11-red-landscape-mask.png",
+      "width": 1934,
+      "height": 979,
+      "screen": {
+        "x": 71,
+        "y": 75,
+        "width": 1792,
+        "height": 828
+      }
+    }
+  },
+  "iphone-11-green": {
+    "frame": "/frames/iphone-11-green.png",
+    "mask": "/frames/iphone-11-red-mask.png",
+    "width": 979,
+    "height": 1934,
+    "screen": {
+      "x": 75,
+      "y": 71,
+      "width": 828,
+      "height": 1792
+    },
+    "landscape": {
+      "frame": "/frames/iphone-11-green-landscape.png",
+      "mask": "/frames/iphone-11-red-landscape-mask.png",
+      "width": 1934,
+      "height": 979,
+      "screen": {
+        "x": 71,
+        "y": 75,
+        "width": 1792,
+        "height": 828
+      }
+    }
+  },
+  "iphone-11-purple": {
+    "frame": "/frames/iphone-11-purple.png",
+    "mask": "/frames/iphone-11-red-mask.png",
+    "width": 979,
+    "height": 1934,
+    "screen": {
+      "x": 75,
+      "y": 71,
+      "width": 828,
+      "height": 1792
+    },
+    "landscape": {
+      "frame": "/frames/iphone-11-purple-landscape.png",
+      "mask": "/frames/iphone-11-red-landscape-mask.png",
+      "width": 1934,
+      "height": 979,
+      "screen": {
+        "x": 71,
+        "y": 75,
+        "width": 1792,
+        "height": 828
+      }
+    }
+  },
+  "iphone-11-red": {
+    "frame": "/frames/iphone-11-red.png",
+    "mask": "/frames/iphone-11-red-mask.png",
+    "width": 979,
+    "height": 1934,
+    "screen": {
+      "x": 75,
+      "y": 71,
+      "width": 828,
+      "height": 1792
+    },
+    "landscape": {
+      "frame": "/frames/iphone-11-red-landscape.png",
+      "mask": "/frames/iphone-11-red-landscape-mask.png",
+      "width": 1934,
+      "height": 979,
+      "screen": {
+        "x": 71,
+        "y": 75,
+        "width": 1792,
+        "height": 828
+      }
+    }
+  },
+  "iphone-11-white": {
+    "frame": "/frames/iphone-11-white.png",
+    "mask": "/frames/iphone-11-red-mask.png",
+    "width": 979,
+    "height": 1934,
+    "screen": {
+      "x": 75,
+      "y": 71,
+      "width": 828,
+      "height": 1792
+    },
+    "landscape": {
+      "frame": "/frames/iphone-11-white-landscape.png",
+      "mask": "/frames/iphone-11-red-landscape-mask.png",
+      "width": 1934,
+      "height": 979,
+      "screen": {
+        "x": 71,
+        "y": 75,
+        "width": 1792,
+        "height": 828
+      }
+    }
+  },
+  "iphone-11-yellow": {
+    "frame": "/frames/iphone-11-yellow.png",
+    "mask": "/frames/iphone-11-red-mask.png",
+    "width": 979,
+    "height": 1934,
+    "screen": {
+      "x": 75,
+      "y": 71,
+      "width": 828,
+      "height": 1792
+    },
+    "landscape": {
+      "frame": "/frames/iphone-11-yellow-landscape.png",
+      "mask": "/frames/iphone-11-red-landscape-mask.png",
+      "width": 1934,
+      "height": 979,
+      "screen": {
+        "x": 71,
+        "y": 75,
+        "width": 1792,
+        "height": 828
+      }
+    }
+  },
+  "iphone-11": {
+    "frame": "/frames/iphone-11-black.png",
+    "mask": "/frames/iphone-11-red-mask.png",
+    "width": 979,
+    "height": 1934,
+    "screen": {
+      "x": 75,
+      "y": 71,
+      "width": 828,
+      "height": 1792
+    },
+    "landscape": {
+      "frame": "/frames/iphone-11-black-landscape.png",
+      "mask": "/frames/iphone-11-red-landscape-mask.png",
+      "width": 1934,
+      "height": 979,
+      "screen": {
+        "x": 71,
+        "y": 75,
+        "width": 1792,
+        "height": 828
+      }
+    }
+  },
+  "iphone-11-pro-gold": {
+    "frame": "/frames/iphone-11-pro-gold.png",
+    "mask": "/frames/iphone-xs-gold-mask.png",
+    "width": 1295,
+    "height": 2590,
+    "screen": {
+      "x": 85,
+      "y": 77,
+      "width": 1125,
+      "height": 2436
+    },
+    "landscape": {
+      "frame": "/frames/iphone-11-pro-gold-landscape.png",
+      "mask": "/frames/iphone-xs-gold-landscape-mask.png",
+      "width": 2590,
+      "height": 1295,
+      "screen": {
+        "x": 77,
+        "y": 85,
+        "width": 2436,
+        "height": 1125
+      }
+    }
+  },
+  "iphone-11-pro-midnight-green": {
+    "frame": "/frames/iphone-11-pro-midnight-green.png",
+    "mask": "/frames/iphone-xs-gold-mask.png",
+    "width": 1295,
+    "height": 2590,
+    "screen": {
+      "x": 85,
+      "y": 77,
+      "width": 1125,
+      "height": 2436
+    },
+    "landscape": {
+      "frame": "/frames/iphone-11-pro-midnight-green-landscape.png",
+      "mask": "/frames/iphone-xs-gold-landscape-mask.png",
+      "width": 2590,
+      "height": 1295,
+      "screen": {
+        "x": 77,
+        "y": 85,
+        "width": 2436,
+        "height": 1125
+      }
+    }
+  },
+  "iphone-11-pro-silver": {
+    "frame": "/frames/iphone-11-pro-silver.png",
+    "mask": "/frames/iphone-xs-gold-mask.png",
+    "width": 1295,
+    "height": 2590,
+    "screen": {
+      "x": 85,
+      "y": 77,
+      "width": 1125,
+      "height": 2436
+    },
+    "landscape": {
+      "frame": "/frames/iphone-11-pro-silver-landscape.png",
+      "mask": "/frames/iphone-xs-gold-landscape-mask.png",
+      "width": 2590,
+      "height": 1295,
+      "screen": {
+        "x": 77,
+        "y": 85,
+        "width": 2436,
+        "height": 1125
+      }
+    }
+  },
+  "iphone-11-pro-space-gray": {
+    "frame": "/frames/iphone-11-pro-space-gray.png",
+    "mask": "/frames/iphone-xs-gold-mask.png",
+    "width": 1295,
+    "height": 2590,
+    "screen": {
+      "x": 85,
+      "y": 77,
+      "width": 1125,
+      "height": 2436
+    },
+    "landscape": {
+      "frame": "/frames/iphone-11-pro-space-gray-landscape.png",
+      "mask": "/frames/iphone-xs-gold-landscape-mask.png",
+      "width": 2590,
+      "height": 1295,
+      "screen": {
+        "x": 77,
+        "y": 85,
+        "width": 2436,
+        "height": 1125
+      }
+    }
+  },
+  "iphone-11-pro": {
+    "frame": "/frames/iphone-11-pro-gold.png",
+    "mask": "/frames/iphone-xs-gold-mask.png",
+    "width": 1295,
+    "height": 2590,
+    "screen": {
+      "x": 85,
+      "y": 77,
+      "width": 1125,
+      "height": 2436
+    },
+    "landscape": {
+      "frame": "/frames/iphone-11-pro-gold-landscape.png",
+      "mask": "/frames/iphone-xs-gold-landscape-mask.png",
+      "width": 2590,
+      "height": 1295,
+      "screen": {
+        "x": 77,
+        "y": 85,
+        "width": 2436,
+        "height": 1125
+      }
+    }
+  },
+  "iphone-11-pro-max-gold": {
+    "frame": "/frames/iphone-11-pro-max-gold.png",
+    "mask": "/frames/iphone-xs-max-gold-mask.png",
+    "width": 1413,
+    "height": 2844,
+    "screen": {
+      "x": 86,
+      "y": 78,
+      "width": 1242,
+      "height": 2688
+    },
+    "landscape": {
+      "frame": "/frames/iphone-11-pro-max-gold-landscape.png",
+      "mask": "/frames/iphone-xs-max-gold-landscape-mask.png",
+      "width": 2844,
+      "height": 1413,
+      "screen": {
+        "x": 78,
+        "y": 86,
+        "width": 2688,
+        "height": 1242
+      }
+    }
+  },
+  "iphone-11-pro-max-midnight-green": {
+    "frame": "/frames/iphone-11-pro-max-midnight-green.png",
+    "mask": "/frames/iphone-xs-max-gold-mask.png",
+    "width": 1413,
+    "height": 2844,
+    "screen": {
+      "x": 86,
+      "y": 78,
+      "width": 1242,
+      "height": 2688
+    },
+    "landscape": {
+      "frame": "/frames/iphone-11-pro-max-midnight-green-landscape.png",
+      "mask": "/frames/iphone-xs-max-gold-landscape-mask.png",
+      "width": 2844,
+      "height": 1413,
+      "screen": {
+        "x": 78,
+        "y": 86,
+        "width": 2688,
+        "height": 1242
+      }
+    }
+  },
+  "iphone-11-pro-max-silver": {
+    "frame": "/frames/iphone-11-pro-max-silver.png",
+    "mask": "/frames/iphone-xs-max-gold-mask.png",
+    "width": 1413,
+    "height": 2844,
+    "screen": {
+      "x": 86,
+      "y": 78,
+      "width": 1242,
+      "height": 2688
+    },
+    "landscape": {
+      "frame": "/frames/iphone-11-pro-max-silver-landscape.png",
+      "mask": "/frames/iphone-xs-max-gold-landscape-mask.png",
+      "width": 2844,
+      "height": 1413,
+      "screen": {
+        "x": 78,
+        "y": 86,
+        "width": 2688,
+        "height": 1242
+      }
+    }
+  },
+  "iphone-11-pro-max-space-gray": {
+    "frame": "/frames/iphone-11-pro-max-space-gray.png",
+    "mask": "/frames/iphone-xs-max-gold-mask.png",
+    "width": 1413,
+    "height": 2844,
+    "screen": {
+      "x": 86,
+      "y": 78,
+      "width": 1242,
+      "height": 2688
+    },
+    "landscape": {
+      "frame": "/frames/iphone-11-pro-max-space-gray-landscape.png",
+      "mask": "/frames/iphone-xs-max-gold-landscape-mask.png",
+      "width": 2844,
+      "height": 1413,
+      "screen": {
+        "x": 78,
+        "y": 86,
+        "width": 2688,
+        "height": 1242
+      }
+    }
+  },
+  "iphone-11-pro-max": {
+    "frame": "/frames/iphone-11-pro-max-gold.png",
+    "mask": "/frames/iphone-xs-max-gold-mask.png",
+    "width": 1413,
+    "height": 2844,
+    "screen": {
+      "x": 86,
+      "y": 78,
+      "width": 1242,
+      "height": 2688
+    },
+    "landscape": {
+      "frame": "/frames/iphone-11-pro-max-gold-landscape.png",
+      "mask": "/frames/iphone-xs-max-gold-landscape-mask.png",
+      "width": 2844,
+      "height": 1413,
+      "screen": {
+        "x": 78,
+        "y": 86,
+        "width": 2688,
+        "height": 1242
+      }
+    }
+  },
+  "iphone-12-black": {
+    "frame": "/frames/iphone-12-black.png",
+    "mask": "/frames/iphone-12-red-mask.png",
+    "width": 1314,
+    "height": 2658,
+    "screen": {
+      "x": 72,
+      "y": 63,
+      "width": 1170,
+      "height": 2532
+    },
+    "landscape": {
+      "frame": "/frames/iphone-12-black-landscape.png",
+      "mask": "/frames/iphone-12-red-landscape-mask.png",
+      "width": 2658,
+      "height": 1314,
+      "screen": {
+        "x": 63,
+        "y": 72,
+        "width": 2532,
+        "height": 1170
+      }
+    }
+  },
+  "iphone-12-blue": {
+    "frame": "/frames/iphone-12-blue.png",
+    "mask": "/frames/iphone-12-red-mask.png",
+    "width": 1314,
+    "height": 2658,
+    "screen": {
+      "x": 72,
+      "y": 63,
+      "width": 1170,
+      "height": 2532
+    },
+    "landscape": {
+      "frame": "/frames/iphone-12-blue-landscape.png",
+      "mask": "/frames/iphone-12-red-landscape-mask.png",
+      "width": 2658,
+      "height": 1314,
+      "screen": {
+        "x": 63,
+        "y": 72,
+        "width": 2532,
+        "height": 1170
+      }
+    }
+  },
+  "iphone-12-green": {
+    "frame": "/frames/iphone-12-green.png",
+    "mask": "/frames/iphone-12-red-mask.png",
+    "width": 1314,
+    "height": 2658,
+    "screen": {
+      "x": 72,
+      "y": 63,
+      "width": 1170,
+      "height": 2532
+    },
+    "landscape": {
+      "frame": "/frames/iphone-12-green-landscape.png",
+      "mask": "/frames/iphone-12-red-landscape-mask.png",
+      "width": 2658,
+      "height": 1314,
+      "screen": {
+        "x": 63,
+        "y": 72,
+        "width": 2532,
+        "height": 1170
+      }
+    }
+  },
+  "iphone-12-red": {
+    "frame": "/frames/iphone-12-red.png",
+    "mask": "/frames/iphone-12-red-mask.png",
+    "width": 1314,
+    "height": 2658,
+    "screen": {
+      "x": 72,
+      "y": 63,
+      "width": 1170,
+      "height": 2532
+    },
+    "landscape": {
+      "frame": "/frames/iphone-12-red-landscape.png",
+      "mask": "/frames/iphone-12-red-landscape-mask.png",
+      "width": 2658,
+      "height": 1314,
+      "screen": {
+        "x": 63,
+        "y": 72,
+        "width": 2532,
+        "height": 1170
+      }
+    }
+  },
+  "iphone-12-white": {
+    "frame": "/frames/iphone-12-white.png",
+    "mask": "/frames/iphone-12-red-mask.png",
+    "width": 1314,
+    "height": 2658,
+    "screen": {
+      "x": 72,
+      "y": 63,
+      "width": 1170,
+      "height": 2532
+    },
+    "landscape": {
+      "frame": "/frames/iphone-12-white-landscape.png",
+      "mask": "/frames/iphone-12-red-landscape-mask.png",
+      "width": 2658,
+      "height": 1314,
+      "screen": {
+        "x": 63,
+        "y": 72,
+        "width": 2532,
+        "height": 1170
+      }
+    }
+  },
+  "iphone-12": {
+    "frame": "/frames/iphone-12-black.png",
+    "mask": "/frames/iphone-12-red-mask.png",
+    "width": 1314,
+    "height": 2658,
+    "screen": {
+      "x": 72,
+      "y": 63,
+      "width": 1170,
+      "height": 2532
+    },
+    "landscape": {
+      "frame": "/frames/iphone-12-black-landscape.png",
+      "mask": "/frames/iphone-12-red-landscape-mask.png",
+      "width": 2658,
+      "height": 1314,
+      "screen": {
+        "x": 63,
+        "y": 72,
+        "width": 2532,
+        "height": 1170
+      }
+    }
+  },
+  "iphone-12-mini-black": {
+    "frame": "/frames/iphone-12-mini-black.png",
+    "mask": "/frames/iphone-12-mini-red-mask.png",
+    "width": 1220,
+    "height": 2458,
+    "screen": {
+      "x": 70,
+      "y": 59,
+      "width": 1080,
+      "height": 2340
+    },
+    "landscape": {
+      "frame": "/frames/iphone-12-mini-black-landscape.png",
+      "mask": "/frames/iphone-12-mini-red-landscape-mask.png",
+      "width": 2458,
+      "height": 1220,
+      "screen": {
+        "x": 59,
+        "y": 70,
+        "width": 2340,
+        "height": 1080
+      }
+    }
+  },
+  "iphone-12-mini-blue": {
+    "frame": "/frames/iphone-12-mini-blue.png",
+    "mask": "/frames/iphone-12-mini-red-mask.png",
+    "width": 1220,
+    "height": 2458,
+    "screen": {
+      "x": 70,
+      "y": 59,
+      "width": 1080,
+      "height": 2340
+    },
+    "landscape": {
+      "frame": "/frames/iphone-12-mini-blue-landscape.png",
+      "mask": "/frames/iphone-12-mini-red-landscape-mask.png",
+      "width": 2458,
+      "height": 1220,
+      "screen": {
+        "x": 59,
+        "y": 70,
+        "width": 2340,
+        "height": 1080
+      }
+    }
+  },
+  "iphone-12-mini-green": {
+    "frame": "/frames/iphone-12-mini-green.png",
+    "mask": "/frames/iphone-12-mini-red-mask.png",
+    "width": 1220,
+    "height": 2458,
+    "screen": {
+      "x": 70,
+      "y": 59,
+      "width": 1080,
+      "height": 2340
+    },
+    "landscape": {
+      "frame": "/frames/iphone-12-mini-green-landscape.png",
+      "mask": "/frames/iphone-12-mini-red-landscape-mask.png",
+      "width": 2458,
+      "height": 1220,
+      "screen": {
+        "x": 59,
+        "y": 70,
+        "width": 2340,
+        "height": 1080
+      }
+    }
+  },
+  "iphone-12-mini-red": {
+    "frame": "/frames/iphone-12-mini-red.png",
+    "mask": "/frames/iphone-12-mini-red-mask.png",
+    "width": 1220,
+    "height": 2458,
+    "screen": {
+      "x": 70,
+      "y": 59,
+      "width": 1080,
+      "height": 2340
+    },
+    "landscape": {
+      "frame": "/frames/iphone-12-mini-red-landscape.png",
+      "mask": "/frames/iphone-12-mini-red-landscape-mask.png",
+      "width": 2458,
+      "height": 1220,
+      "screen": {
+        "x": 59,
+        "y": 70,
+        "width": 2340,
+        "height": 1080
+      }
+    }
+  },
+  "iphone-12-mini-white": {
+    "frame": "/frames/iphone-12-mini-white.png",
+    "mask": "/frames/iphone-12-mini-red-mask.png",
+    "width": 1220,
+    "height": 2458,
+    "screen": {
+      "x": 70,
+      "y": 59,
+      "width": 1080,
+      "height": 2340
+    },
+    "landscape": {
+      "frame": "/frames/iphone-12-mini-white-landscape.png",
+      "mask": "/frames/iphone-12-mini-red-landscape-mask.png",
+      "width": 2458,
+      "height": 1220,
+      "screen": {
+        "x": 59,
+        "y": 70,
+        "width": 2340,
+        "height": 1080
+      }
+    }
+  },
+  "iphone-12-mini": {
+    "frame": "/frames/iphone-12-mini-black.png",
+    "mask": "/frames/iphone-12-mini-red-mask.png",
+    "width": 1220,
+    "height": 2458,
+    "screen": {
+      "x": 70,
+      "y": 59,
+      "width": 1080,
+      "height": 2340
+    },
+    "landscape": {
+      "frame": "/frames/iphone-12-mini-black-landscape.png",
+      "mask": "/frames/iphone-12-mini-red-landscape-mask.png",
+      "width": 2458,
+      "height": 1220,
+      "screen": {
+        "x": 59,
+        "y": 70,
+        "width": 2340,
+        "height": 1080
+      }
+    }
+  },
+  "iphone-12-pro-gold": {
+    "frame": "/frames/iphone-12-pro-gold.png",
+    "mask": "/frames/iphone-12-pro-gold-mask.png",
+    "width": 1314,
+    "height": 2658,
+    "screen": {
+      "x": 72,
+      "y": 63,
+      "width": 1170,
+      "height": 2532
+    },
+    "landscape": {
+      "frame": "/frames/iphone-12-pro-gold-landscape.png",
+      "mask": "/frames/iphone-12-pro-gold-landscape-mask.png",
+      "width": 2658,
+      "height": 1314,
+      "screen": {
+        "x": 63,
+        "y": 72,
+        "width": 2532,
+        "height": 1170
+      }
+    }
+  },
+  "iphone-12-pro-graphite": {
+    "frame": "/frames/iphone-12-pro-graphite.png",
+    "mask": "/frames/iphone-12-pro-gold-mask.png",
+    "width": 1314,
+    "height": 2658,
+    "screen": {
+      "x": 72,
+      "y": 63,
+      "width": 1170,
+      "height": 2532
+    },
+    "landscape": {
+      "frame": "/frames/iphone-12-pro-graphite-landscape.png",
+      "mask": "/frames/iphone-12-pro-gold-landscape-mask.png",
+      "width": 2658,
+      "height": 1314,
+      "screen": {
+        "x": 63,
+        "y": 72,
+        "width": 2532,
+        "height": 1170
+      }
+    }
+  },
+  "iphone-12-pro-pacific-blue": {
+    "frame": "/frames/iphone-12-pro-pacific-blue.png",
+    "mask": "/frames/iphone-12-pro-gold-mask.png",
+    "width": 1314,
+    "height": 2658,
+    "screen": {
+      "x": 72,
+      "y": 63,
+      "width": 1170,
+      "height": 2532
+    },
+    "landscape": {
+      "frame": "/frames/iphone-12-pro-pacific-blue-landscape.png",
+      "mask": "/frames/iphone-12-pro-gold-landscape-mask.png",
+      "width": 2658,
+      "height": 1314,
+      "screen": {
+        "x": 63,
+        "y": 72,
+        "width": 2532,
+        "height": 1170
+      }
+    }
+  },
+  "iphone-12-pro-silver": {
+    "frame": "/frames/iphone-12-pro-silver.png",
+    "mask": "/frames/iphone-12-pro-gold-mask.png",
+    "width": 1314,
+    "height": 2658,
+    "screen": {
+      "x": 72,
+      "y": 63,
+      "width": 1170,
+      "height": 2532
+    },
+    "landscape": {
+      "frame": "/frames/iphone-12-pro-silver-landscape.png",
+      "mask": "/frames/iphone-12-pro-gold-landscape-mask.png",
+      "width": 2658,
+      "height": 1314,
+      "screen": {
+        "x": 63,
+        "y": 72,
+        "width": 2532,
+        "height": 1170
+      }
+    }
+  },
+  "iphone-12-pro": {
+    "frame": "/frames/iphone-12-pro-gold.png",
+    "mask": "/frames/iphone-12-pro-gold-mask.png",
+    "width": 1314,
+    "height": 2658,
+    "screen": {
+      "x": 72,
+      "y": 63,
+      "width": 1170,
+      "height": 2532
+    },
+    "landscape": {
+      "frame": "/frames/iphone-12-pro-gold-landscape.png",
+      "mask": "/frames/iphone-12-pro-gold-landscape-mask.png",
+      "width": 2658,
+      "height": 1314,
+      "screen": {
+        "x": 63,
+        "y": 72,
+        "width": 2532,
+        "height": 1170
+      }
+    }
+  },
+  "iphone-12-pro-max-gold": {
+    "frame": "/frames/iphone-12-pro-max-gold.png",
+    "mask": "/frames/iphone-12-pro-max-gold-mask.png",
+    "width": 1432,
+    "height": 2902,
+    "screen": {
+      "x": 74,
+      "y": 62,
+      "width": 1284,
+      "height": 2778
+    },
+    "landscape": {
+      "frame": "/frames/iphone-12-pro-max-gold-landscape.png",
+      "mask": "/frames/iphone-12-pro-max-gold-landscape-mask.png",
+      "width": 2902,
+      "height": 1432,
+      "screen": {
+        "x": 62,
+        "y": 74,
+        "width": 2778,
+        "height": 1284
+      }
+    }
+  },
+  "iphone-12-pro-max-graphite": {
+    "frame": "/frames/iphone-12-pro-max-graphite.png",
+    "mask": "/frames/iphone-12-pro-max-gold-mask.png",
+    "width": 1432,
+    "height": 2902,
+    "screen": {
+      "x": 74,
+      "y": 62,
+      "width": 1284,
+      "height": 2778
+    },
+    "landscape": {
+      "frame": "/frames/iphone-12-pro-max-graphite-landscape.png",
+      "mask": "/frames/iphone-12-pro-max-gold-landscape-mask.png",
+      "width": 2902,
+      "height": 1432,
+      "screen": {
+        "x": 62,
+        "y": 74,
+        "width": 2778,
+        "height": 1284
+      }
+    }
+  },
+  "iphone-12-pro-max-pacific-blue": {
+    "frame": "/frames/iphone-12-pro-max-pacific-blue.png",
+    "mask": "/frames/iphone-12-pro-max-gold-mask.png",
+    "width": 1432,
+    "height": 2902,
+    "screen": {
+      "x": 74,
+      "y": 62,
+      "width": 1284,
+      "height": 2778
+    },
+    "landscape": {
+      "frame": "/frames/iphone-12-pro-max-pacific-blue-landscape.png",
+      "mask": "/frames/iphone-12-pro-max-gold-landscape-mask.png",
+      "width": 2902,
+      "height": 1432,
+      "screen": {
+        "x": 62,
+        "y": 74,
+        "width": 2778,
+        "height": 1284
+      }
+    }
+  },
+  "iphone-12-pro-max-silver": {
+    "frame": "/frames/iphone-12-pro-max-silver.png",
+    "mask": "/frames/iphone-12-pro-max-gold-mask.png",
+    "width": 1432,
+    "height": 2902,
+    "screen": {
+      "x": 74,
+      "y": 62,
+      "width": 1284,
+      "height": 2778
+    },
+    "landscape": {
+      "frame": "/frames/iphone-12-pro-max-silver-landscape.png",
+      "mask": "/frames/iphone-12-pro-max-gold-landscape-mask.png",
+      "width": 2902,
+      "height": 1432,
+      "screen": {
+        "x": 62,
+        "y": 74,
+        "width": 2778,
+        "height": 1284
+      }
+    }
+  },
+  "iphone-12-pro-max": {
+    "frame": "/frames/iphone-12-pro-max-gold.png",
+    "mask": "/frames/iphone-12-pro-max-gold-mask.png",
+    "width": 1432,
+    "height": 2902,
+    "screen": {
+      "x": 74,
+      "y": 62,
+      "width": 1284,
+      "height": 2778
+    },
+    "landscape": {
+      "frame": "/frames/iphone-12-pro-max-gold-landscape.png",
+      "mask": "/frames/iphone-12-pro-max-gold-landscape-mask.png",
+      "width": 2902,
+      "height": 1432,
+      "screen": {
+        "x": 62,
+        "y": 74,
+        "width": 2778,
+        "height": 1284
+      }
+    }
+  },
+  "iphone-13-blue": {
+    "frame": "/frames/iphone-13-blue.png",
+    "mask": "/frames/iphone-13-red-mask.png",
+    "width": 1313,
+    "height": 2661,
+    "screen": {
+      "x": 72,
+      "y": 64,
+      "width": 1170,
+      "height": 2532
+    },
+    "landscape": {
+      "frame": "/frames/iphone-13-blue-landscape.png",
+      "mask": "/frames/iphone-13-red-landscape-mask.png",
+      "width": 2661,
+      "height": 1313,
+      "screen": {
+        "x": 65,
+        "y": 72,
+        "width": 2532,
+        "height": 1170
+      }
+    }
+  },
+  "iphone-13-midnight": {
+    "frame": "/frames/iphone-13-midnight.png",
+    "mask": "/frames/iphone-13-red-mask.png",
+    "width": 1313,
+    "height": 2661,
+    "screen": {
+      "x": 72,
+      "y": 64,
+      "width": 1170,
+      "height": 2532
+    },
+    "landscape": {
+      "frame": "/frames/iphone-13-midnight-landscape.png",
+      "mask": "/frames/iphone-13-red-landscape-mask.png",
+      "width": 2661,
+      "height": 1313,
+      "screen": {
+        "x": 65,
+        "y": 72,
+        "width": 2532,
+        "height": 1170
+      }
+    }
+  },
+  "iphone-13-pink": {
+    "frame": "/frames/iphone-13-pink.png",
+    "mask": "/frames/iphone-13-red-mask.png",
+    "width": 1313,
+    "height": 2661,
+    "screen": {
+      "x": 72,
+      "y": 64,
+      "width": 1170,
+      "height": 2532
+    },
+    "landscape": {
+      "frame": "/frames/iphone-13-pink-landscape.png",
+      "mask": "/frames/iphone-13-red-landscape-mask.png",
+      "width": 2661,
+      "height": 1313,
+      "screen": {
+        "x": 65,
+        "y": 72,
+        "width": 2532,
+        "height": 1170
+      }
+    }
+  },
+  "iphone-13-red": {
+    "frame": "/frames/iphone-13-red.png",
+    "mask": "/frames/iphone-13-red-mask.png",
+    "width": 1313,
+    "height": 2661,
+    "screen": {
+      "x": 72,
+      "y": 64,
+      "width": 1170,
+      "height": 2532
+    },
+    "landscape": {
+      "frame": "/frames/iphone-13-red-landscape.png",
+      "mask": "/frames/iphone-13-red-landscape-mask.png",
+      "width": 2661,
+      "height": 1313,
+      "screen": {
+        "x": 65,
+        "y": 72,
+        "width": 2532,
+        "height": 1170
+      }
+    }
+  },
+  "iphone-13-starlight": {
+    "frame": "/frames/iphone-13-starlight.png",
+    "mask": "/frames/iphone-13-red-mask.png",
+    "width": 1313,
+    "height": 2661,
+    "screen": {
+      "x": 72,
+      "y": 64,
+      "width": 1170,
+      "height": 2532
+    },
+    "landscape": {
+      "frame": "/frames/iphone-13-starlight-landscape.png",
+      "mask": "/frames/iphone-13-red-landscape-mask.png",
+      "width": 2661,
+      "height": 1313,
+      "screen": {
+        "x": 65,
+        "y": 72,
+        "width": 2532,
+        "height": 1170
+      }
+    }
+  },
+  "iphone-13-mini-blue": {
+    "frame": "/frames/iphone-13-mini-blue.png",
+    "mask": "/frames/iphone-13-mini-red-mask.png",
+    "width": 1223,
+    "height": 2466,
+    "screen": {
+      "x": 71,
+      "y": 63,
+      "width": 1080,
+      "height": 2340
+    },
+    "landscape": {
+      "frame": "/frames/iphone-13-mini-blue-landscape.png",
+      "mask": "/frames/iphone-13-mini-red-landscape-mask.png",
+      "width": 2466,
+      "height": 1223,
+      "screen": {
+        "x": 63,
+        "y": 71,
+        "width": 2340,
+        "height": 1080
+      }
+    }
+  },
+  "iphone-13-mini-midnight": {
+    "frame": "/frames/iphone-13-mini-midnight.png",
+    "mask": "/frames/iphone-13-mini-midnight-mask.png",
+    "width": 1223,
+    "height": 2466,
+    "screen": {
+      "x": 74,
+      "y": 66,
+      "width": 1080,
+      "height": 2340
+    },
+    "landscape": {
+      "frame": "/frames/iphone-13-mini-midnight-landscape.png",
+      "mask": "/frames/iphone-13-mini-midnight-landscape-mask.png",
+      "width": 2466,
+      "height": 1223,
+      "screen": {
+        "x": 60,
+        "y": 74,
+        "width": 2340,
+        "height": 1080
+      }
+    }
+  },
+  "iphone-13-mini-pink": {
+    "frame": "/frames/iphone-13-mini-pink.png",
+    "mask": "/frames/iphone-13-mini-red-mask.png",
+    "width": 1223,
+    "height": 2466,
+    "screen": {
+      "x": 71,
+      "y": 63,
+      "width": 1080,
+      "height": 2340
+    },
+    "landscape": {
+      "frame": "/frames/iphone-13-mini-pink-landscape.png",
+      "mask": "/frames/iphone-13-mini-red-landscape-mask.png",
+      "width": 2466,
+      "height": 1223,
+      "screen": {
+        "x": 63,
+        "y": 71,
+        "width": 2340,
+        "height": 1080
+      }
+    }
+  },
+  "iphone-13-mini-red": {
+    "frame": "/frames/iphone-13-mini-red.png",
+    "mask": "/frames/iphone-13-mini-red-mask.png",
+    "width": 1223,
+    "height": 2466,
+    "screen": {
+      "x": 71,
+      "y": 63,
+      "width": 1080,
+      "height": 2340
+    },
+    "landscape": {
+      "frame": "/frames/iphone-13-mini-red-landscape.png",
+      "mask": "/frames/iphone-13-mini-red-landscape-mask.png",
+      "width": 2466,
+      "height": 1223,
+      "screen": {
+        "x": 63,
+        "y": 71,
+        "width": 2340,
+        "height": 1080
+      }
+    }
+  },
+  "iphone-13-mini-starlight": {
+    "frame": "/frames/iphone-13-mini-starlight.png",
+    "mask": "/frames/iphone-13-mini-red-mask.png",
+    "width": 1223,
+    "height": 2466,
+    "screen": {
+      "x": 71,
+      "y": 63,
+      "width": 1080,
+      "height": 2340
+    },
+    "landscape": {
+      "frame": "/frames/iphone-13-mini-starlight-landscape.png",
+      "mask": "/frames/iphone-13-mini-red-landscape-mask.png",
+      "width": 2466,
+      "height": 1223,
+      "screen": {
+        "x": 63,
+        "y": 71,
+        "width": 2340,
+        "height": 1080
+      }
+    }
+  },
+  "iphone-13-mini": {
+    "frame": "/frames/iphone-13-mini-blue.png",
+    "mask": "/frames/iphone-13-mini-red-mask.png",
+    "width": 1223,
+    "height": 2466,
+    "screen": {
+      "x": 71,
+      "y": 63,
+      "width": 1080,
+      "height": 2340
+    },
+    "landscape": {
+      "frame": "/frames/iphone-13-mini-blue-landscape.png",
+      "mask": "/frames/iphone-13-mini-red-landscape-mask.png",
+      "width": 2466,
+      "height": 1223,
+      "screen": {
+        "x": 63,
+        "y": 71,
+        "width": 2340,
+        "height": 1080
+      }
+    }
+  },
+  "iphone-13-pro-gold": {
+    "frame": "/frames/iphone-13-pro-gold.png",
+    "mask": "/frames/iphone-13-pro-gold-mask.png",
+    "width": 1318,
+    "height": 2660,
+    "screen": {
+      "x": 74,
+      "y": 62,
+      "width": 1170,
+      "height": 2532
+    },
+    "landscape": {
+      "frame": "/frames/iphone-13-pro-gold-landscape.png",
+      "mask": "/frames/iphone-13-pro-gold-landscape-mask.png",
+      "width": 2660,
+      "height": 1318,
+      "screen": {
+        "x": 66,
+        "y": 74,
+        "width": 2532,
+        "height": 1170
+      }
+    }
+  },
+  "iphone-13-pro-graphite": {
+    "frame": "/frames/iphone-13-pro-graphite.png",
+    "mask": "/frames/iphone-13-pro-gold-mask.png",
+    "width": 1318,
+    "height": 2660,
+    "screen": {
+      "x": 74,
+      "y": 62,
+      "width": 1170,
+      "height": 2532
+    },
+    "landscape": {
+      "frame": "/frames/iphone-13-pro-graphite-landscape.png",
+      "mask": "/frames/iphone-13-pro-gold-landscape-mask.png",
+      "width": 2660,
+      "height": 1318,
+      "screen": {
+        "x": 66,
+        "y": 74,
+        "width": 2532,
+        "height": 1170
+      }
+    }
+  },
+  "iphone-13-pro-sierra-blue": {
+    "frame": "/frames/iphone-13-pro-sierra-blue.png",
+    "mask": "/frames/iphone-13-pro-gold-mask.png",
+    "width": 1318,
+    "height": 2660,
+    "screen": {
+      "x": 74,
+      "y": 62,
+      "width": 1170,
+      "height": 2532
+    },
+    "landscape": {
+      "frame": "/frames/iphone-13-pro-sierra-blue-landscape.png",
+      "mask": "/frames/iphone-13-pro-gold-landscape-mask.png",
+      "width": 2660,
+      "height": 1318,
+      "screen": {
+        "x": 66,
+        "y": 74,
+        "width": 2532,
+        "height": 1170
+      }
+    }
+  },
+  "iphone-13-pro-silver": {
+    "frame": "/frames/iphone-13-pro-silver.png",
+    "mask": "/frames/iphone-13-pro-silver-mask.png",
+    "width": 1318,
+    "height": 2660,
+    "screen": {
+      "x": 74,
+      "y": 63,
+      "width": 1170,
+      "height": 2532
+    },
+    "landscape": {
+      "frame": "/frames/iphone-13-pro-silver-landscape.png",
+      "mask": "/frames/iphone-13-pro-silver-landscape-mask.png",
+      "width": 2660,
+      "height": 1318,
+      "screen": {
+        "x": 65,
+        "y": 74,
+        "width": 2532,
+        "height": 1170
+      }
+    }
+  },
+  "iphone-13-pro": {
+    "frame": "/frames/iphone-13-pro-gold.png",
+    "mask": "/frames/iphone-13-pro-gold-mask.png",
+    "width": 1318,
+    "height": 2660,
+    "screen": {
+      "x": 74,
+      "y": 62,
+      "width": 1170,
+      "height": 2532
+    },
+    "landscape": {
+      "frame": "/frames/iphone-13-pro-gold-landscape.png",
+      "mask": "/frames/iphone-13-pro-gold-landscape-mask.png",
+      "width": 2660,
+      "height": 1318,
+      "screen": {
+        "x": 66,
+        "y": 74,
+        "width": 2532,
+        "height": 1170
+      }
+    }
+  },
+  "iphone-13-pro-max-gold": {
+    "frame": "/frames/iphone-13-pro-max-gold.png",
+    "mask": "/frames/iphone-13-pro-max-gold-mask.png",
+    "width": 1433,
+    "height": 2908,
+    "screen": {
+      "x": 75,
+      "y": 70,
+      "width": 1284,
+      "height": 2778
+    },
+    "landscape": {
+      "frame": "/frames/iphone-13-pro-max-gold-landscape.png",
+      "mask": "/frames/iphone-13-pro-max-gold-landscape-mask.png",
+      "width": 2908,
+      "height": 1433,
+      "screen": {
+        "x": 60,
+        "y": 75,
+        "width": 2778,
+        "height": 1284
+      }
+    }
+  },
+  "iphone-13-pro-max-graphite": {
+    "frame": "/frames/iphone-13-pro-max-graphite.png",
+    "mask": "/frames/iphone-13-pro-max-silver-mask.png",
+    "width": 1433,
+    "height": 2908,
+    "screen": {
+      "x": 75,
+      "y": 69,
+      "width": 1284,
+      "height": 2778
+    },
+    "landscape": {
+      "frame": "/frames/iphone-13-pro-max-graphite-landscape.png",
+      "mask": "/frames/iphone-13-pro-max-silver-landscape-mask.png",
+      "width": 2908,
+      "height": 1433,
+      "screen": {
+        "x": 61,
+        "y": 75,
+        "width": 2778,
+        "height": 1284
+      }
+    }
+  },
+  "iphone-13-pro-max-sierra-blue": {
+    "frame": "/frames/iphone-13-pro-max-sierra-blue.png",
+    "mask": "/frames/iphone-13-pro-max-sierra-blue-mask.png",
+    "width": 1433,
+    "height": 2908,
+    "screen": {
+      "x": 74,
+      "y": 69,
+      "width": 1284,
+      "height": 2778
+    },
+    "landscape": {
+      "frame": "/frames/iphone-13-pro-max-sierra-blue-landscape.png",
+      "mask": "/frames/iphone-13-pro-max-sierra-blue-landscape-mask.png",
+      "width": 2908,
+      "height": 1433,
+      "screen": {
+        "x": 61,
+        "y": 74,
+        "width": 2778,
+        "height": 1284
+      }
+    }
+  },
+  "iphone-13-pro-max-silver": {
+    "frame": "/frames/iphone-13-pro-max-silver.png",
+    "mask": "/frames/iphone-13-pro-max-silver-mask.png",
+    "width": 1433,
+    "height": 2908,
+    "screen": {
+      "x": 75,
+      "y": 69,
+      "width": 1284,
+      "height": 2778
+    },
+    "landscape": {
+      "frame": "/frames/iphone-13-pro-max-silver-landscape.png",
+      "mask": "/frames/iphone-13-pro-max-silver-landscape-mask.png",
+      "width": 2908,
+      "height": 1433,
+      "screen": {
+        "x": 61,
+        "y": 75,
+        "width": 2778,
+        "height": 1284
+      }
+    }
+  },
+  "iphone-13-pro-max": {
+    "frame": "/frames/iphone-13-pro-max-gold.png",
+    "mask": "/frames/iphone-13-pro-max-gold-mask.png",
+    "width": 1433,
+    "height": 2908,
+    "screen": {
+      "x": 75,
+      "y": 70,
+      "width": 1284,
+      "height": 2778
+    },
+    "landscape": {
+      "frame": "/frames/iphone-13-pro-max-gold-landscape.png",
+      "mask": "/frames/iphone-13-pro-max-gold-landscape-mask.png",
+      "width": 2908,
+      "height": 1433,
+      "screen": {
+        "x": 60,
+        "y": 75,
+        "width": 2778,
+        "height": 1284
+      }
+    }
+  },
+  "iphone-14-blue": {
+    "frame": "/frames/iphone-14-blue.png",
+    "mask": "/frames/iphone-14-red-mask.png",
+    "width": 1309,
+    "height": 2655,
+    "screen": {
+      "x": 74,
+      "y": 61,
+      "width": 1170,
+      "height": 2532
+    },
+    "landscape": {
+      "frame": "/frames/iphone-14-blue-landscape.png",
+      "mask": "/frames/iphone-14-red-landscape-mask.png",
+      "width": 2655,
+      "height": 1309,
+      "screen": {
+        "x": 62,
+        "y": 74,
+        "width": 2532,
+        "height": 1170
+      }
+    }
+  },
+  "iphone-14-midnight": {
+    "frame": "/frames/iphone-14-midnight.png",
+    "mask": "/frames/iphone-14-red-mask.png",
+    "width": 1309,
+    "height": 2655,
+    "screen": {
+      "x": 74,
+      "y": 61,
+      "width": 1170,
+      "height": 2532
+    },
+    "landscape": {
+      "frame": "/frames/iphone-14-midnight-landscape.png",
+      "mask": "/frames/iphone-14-red-landscape-mask.png",
+      "width": 2655,
+      "height": 1309,
+      "screen": {
+        "x": 62,
+        "y": 74,
+        "width": 2532,
+        "height": 1170
+      }
+    }
+  },
+  "iphone-14-purple": {
+    "frame": "/frames/iphone-14-purple.png",
+    "mask": "/frames/iphone-14-red-mask.png",
+    "width": 1309,
+    "height": 2655,
+    "screen": {
+      "x": 74,
+      "y": 61,
+      "width": 1170,
+      "height": 2532
+    },
+    "landscape": {
+      "frame": "/frames/iphone-14-purple-landscape.png",
+      "mask": "/frames/iphone-14-red-landscape-mask.png",
+      "width": 2655,
+      "height": 1309,
+      "screen": {
+        "x": 62,
+        "y": 74,
+        "width": 2532,
+        "height": 1170
+      }
+    }
+  },
+  "iphone-14-red": {
+    "frame": "/frames/iphone-14-red.png",
+    "mask": "/frames/iphone-14-red-mask.png",
+    "width": 1309,
+    "height": 2655,
+    "screen": {
+      "x": 74,
+      "y": 61,
+      "width": 1170,
+      "height": 2532
+    },
+    "landscape": {
+      "frame": "/frames/iphone-14-red-landscape.png",
+      "mask": "/frames/iphone-14-red-landscape-mask.png",
+      "width": 2655,
+      "height": 1309,
+      "screen": {
+        "x": 62,
+        "y": 74,
+        "width": 2532,
+        "height": 1170
+      }
+    }
+  },
+  "iphone-14-starlight": {
+    "frame": "/frames/iphone-14-starlight.png",
+    "mask": "/frames/iphone-14-red-mask.png",
+    "width": 1309,
+    "height": 2655,
+    "screen": {
+      "x": 74,
+      "y": 61,
+      "width": 1170,
+      "height": 2532
+    },
+    "landscape": {
+      "frame": "/frames/iphone-14-starlight-landscape.png",
+      "mask": "/frames/iphone-14-red-landscape-mask.png",
+      "width": 2655,
+      "height": 1309,
+      "screen": {
+        "x": 62,
+        "y": 74,
+        "width": 2532,
+        "height": 1170
+      }
+    }
+  },
+  "iphone-14": {
+    "frame": "/frames/iphone-14-blue.png",
+    "mask": "/frames/iphone-14-red-mask.png",
+    "width": 1309,
+    "height": 2655,
+    "screen": {
+      "x": 74,
+      "y": 61,
+      "width": 1170,
+      "height": 2532
+    },
+    "landscape": {
+      "frame": "/frames/iphone-14-blue-landscape.png",
+      "mask": "/frames/iphone-14-red-landscape-mask.png",
+      "width": 2655,
+      "height": 1309,
+      "screen": {
+        "x": 62,
+        "y": 74,
+        "width": 2532,
+        "height": 1170
+      }
+    }
+  },
+  "iphone-14-plus-blue": {
+    "frame": "/frames/iphone-14-plus-blue.png",
+    "mask": "/frames/iphone-14-plus-red-mask.png",
+    "width": 1429,
+    "height": 2902,
+    "screen": {
+      "x": 74,
+      "y": 60,
+      "width": 1284,
+      "height": 2778
+    },
+    "landscape": {
+      "frame": "/frames/iphone-14-plus-blue-landscape.png",
+      "mask": "/frames/iphone-14-plus-red-landscape-mask.png",
+      "width": 2902,
+      "height": 1429,
+      "screen": {
+        "x": 64,
+        "y": 74,
+        "width": 2778,
+        "height": 1284
+      }
+    }
+  },
+  "iphone-14-plus-midnight": {
+    "frame": "/frames/iphone-14-plus-midnight.png",
+    "mask": "/frames/iphone-14-plus-red-mask.png",
+    "width": 1429,
+    "height": 2902,
+    "screen": {
+      "x": 74,
+      "y": 60,
+      "width": 1284,
+      "height": 2778
+    },
+    "landscape": {
+      "frame": "/frames/iphone-14-plus-midnight-landscape.png",
+      "mask": "/frames/iphone-14-plus-red-landscape-mask.png",
+      "width": 2902,
+      "height": 1429,
+      "screen": {
+        "x": 64,
+        "y": 74,
+        "width": 2778,
+        "height": 1284
+      }
+    }
+  },
+  "iphone-14-plus-purple": {
+    "frame": "/frames/iphone-14-plus-purple.png",
+    "mask": "/frames/iphone-14-plus-red-mask.png",
+    "width": 1429,
+    "height": 2902,
+    "screen": {
+      "x": 74,
+      "y": 60,
+      "width": 1284,
+      "height": 2778
+    },
+    "landscape": {
+      "frame": "/frames/iphone-14-plus-purple-landscape.png",
+      "mask": "/frames/iphone-14-plus-red-landscape-mask.png",
+      "width": 2902,
+      "height": 1429,
+      "screen": {
+        "x": 64,
+        "y": 74,
+        "width": 2778,
+        "height": 1284
+      }
+    }
+  },
+  "iphone-14-plus-red": {
+    "frame": "/frames/iphone-14-plus-red.png",
+    "mask": "/frames/iphone-14-plus-red-mask.png",
+    "width": 1429,
+    "height": 2902,
+    "screen": {
+      "x": 74,
+      "y": 60,
+      "width": 1284,
+      "height": 2778
+    },
+    "landscape": {
+      "frame": "/frames/iphone-14-plus-red-landscape.png",
+      "mask": "/frames/iphone-14-plus-red-landscape-mask.png",
+      "width": 2902,
+      "height": 1429,
+      "screen": {
+        "x": 64,
+        "y": 74,
+        "width": 2778,
+        "height": 1284
+      }
+    }
+  },
+  "iphone-14-plus-starlight": {
+    "frame": "/frames/iphone-14-plus-starlight.png",
+    "mask": "/frames/iphone-14-plus-red-mask.png",
+    "width": 1429,
+    "height": 2902,
+    "screen": {
+      "x": 74,
+      "y": 60,
+      "width": 1284,
+      "height": 2778
+    },
+    "landscape": {
+      "frame": "/frames/iphone-14-plus-starlight-landscape.png",
+      "mask": "/frames/iphone-14-plus-red-landscape-mask.png",
+      "width": 2902,
+      "height": 1429,
+      "screen": {
+        "x": 64,
+        "y": 74,
+        "width": 2778,
+        "height": 1284
+      }
+    }
+  },
+  "iphone-14-plus": {
+    "frame": "/frames/iphone-14-plus-blue.png",
+    "mask": "/frames/iphone-14-plus-red-mask.png",
+    "width": 1429,
+    "height": 2902,
+    "screen": {
+      "x": 74,
+      "y": 60,
+      "width": 1284,
+      "height": 2778
+    },
+    "landscape": {
+      "frame": "/frames/iphone-14-plus-blue-landscape.png",
+      "mask": "/frames/iphone-14-plus-red-landscape-mask.png",
+      "width": 2902,
+      "height": 1429,
+      "screen": {
+        "x": 64,
+        "y": 74,
+        "width": 2778,
+        "height": 1284
+      }
+    }
+  },
+  "iphone-14-pro-space-black": {
+    "frame": "/frames/iphone-14-pro-space-black.png",
+    "mask": "/frames/iphone-14-pro-mask.png",
+    "width": 1311,
+    "height": 2672,
+    "screen": {
+      "x": 68,
+      "y": 58,
+      "width": 1179,
+      "height": 2556
+    },
+    "landscape": {
+      "frame": "/frames/iphone-14-pro-space-black-landscape.png",
+      "mask": "/frames/iphone-14-pro-landscape-mask.png",
+      "width": 2672,
+      "height": 1311,
+      "screen": {
+        "x": 58,
+        "y": 68,
+        "width": 2556,
+        "height": 1179
+      }
+    }
+  },
+  "iphone-14-pro-gold": {
+    "frame": "/frames/iphone-14-pro-gold.png",
+    "mask": "/frames/iphone-14-pro-mask.png",
+    "width": 1311,
+    "height": 2672,
+    "screen": {
+      "x": 68,
+      "y": 58,
+      "width": 1179,
+      "height": 2556
+    },
+    "landscape": {
+      "frame": "/frames/iphone-14-pro-gold-landscape.png",
+      "mask": "/frames/iphone-14-pro-landscape-mask.png",
+      "width": 2672,
+      "height": 1311,
+      "screen": {
+        "x": 58,
+        "y": 68,
+        "width": 2556,
+        "height": 1179
+      }
+    }
+  },
+  "iphone-14-pro-deep-purple": {
+    "frame": "/frames/iphone-14-pro.png",
+    "mask": "/frames/iphone-14-pro-mask.png",
+    "width": 1311,
+    "height": 2672,
+    "screen": {
+      "x": 68,
+      "y": 58,
+      "width": 1179,
+      "height": 2556
+    },
+    "landscape": {
+      "frame": "/frames/iphone-14-pro-landscape.png",
+      "mask": "/frames/iphone-14-pro-landscape-mask.png",
+      "width": 2672,
+      "height": 1311,
+      "screen": {
+        "x": 58,
+        "y": 68,
+        "width": 2556,
+        "height": 1179
+      }
+    }
+  },
+  "iphone-14-pro-silver": {
+    "frame": "/frames/iphone-14-pro-silver.png",
+    "mask": "/frames/iphone-14-pro-mask.png",
+    "width": 1311,
+    "height": 2672,
+    "screen": {
+      "x": 68,
+      "y": 58,
+      "width": 1179,
+      "height": 2556
+    },
+    "landscape": {
+      "frame": "/frames/iphone-14-pro-silver-landscape.png",
+      "mask": "/frames/iphone-14-pro-landscape-mask.png",
+      "width": 2672,
+      "height": 1311,
+      "screen": {
+        "x": 58,
+        "y": 68,
+        "width": 2556,
+        "height": 1179
+      }
+    }
+  },
+  "iphone-14-pro-max-space-black": {
+    "frame": "/frames/iphone-14-pro-max-space-black.png",
+    "mask": "/frames/iphone-14-pro-max-gold-mask.png",
+    "width": 1421,
+    "height": 2909,
+    "screen": {
+      "x": 67,
+      "y": 55,
+      "width": 1290,
+      "height": 2796
+    },
+    "landscape": {
+      "frame": "/frames/iphone-14-pro-max-space-black-landscape.png",
+      "mask": "/frames/iphone-14-pro-max-gold-landscape-mask.png",
+      "width": 2909,
+      "height": 1421,
+      "screen": {
+        "x": 58,
+        "y": 67,
+        "width": 2796,
+        "height": 1290
+      }
+    }
+  },
+  "iphone-14-pro-max-gold": {
+    "frame": "/frames/iphone-14-pro-max-gold.png",
+    "mask": "/frames/iphone-14-pro-max-gold-mask.png",
+    "width": 1421,
+    "height": 2909,
+    "screen": {
+      "x": 67,
+      "y": 55,
+      "width": 1290,
+      "height": 2796
+    },
+    "landscape": {
+      "frame": "/frames/iphone-14-pro-max-gold-landscape.png",
+      "mask": "/frames/iphone-14-pro-max-gold-landscape-mask.png",
+      "width": 2909,
+      "height": 1421,
+      "screen": {
+        "x": 58,
+        "y": 67,
+        "width": 2796,
+        "height": 1290
+      }
+    }
+  },
+  "iphone-14-pro-max-deep-purple": {
+    "frame": "/frames/iphone-14-pro-max-deep-purple.png",
+    "mask": "/frames/iphone-14-pro-max-gold-mask.png",
+    "width": 1421,
+    "height": 2909,
+    "screen": {
+      "x": 67,
+      "y": 55,
+      "width": 1290,
+      "height": 2796
+    },
+    "landscape": {
+      "frame": "/frames/iphone-14-pro-max-deep-purple-landscape.png",
+      "mask": "/frames/iphone-14-pro-max-gold-landscape-mask.png",
+      "width": 2909,
+      "height": 1421,
+      "screen": {
+        "x": 58,
+        "y": 67,
+        "width": 2796,
+        "height": 1290
+      }
+    }
+  },
+  "iphone-14-pro-max-silver": {
+    "frame": "/frames/iphone-14-pro-max-silver.png",
+    "mask": "/frames/iphone-14-pro-max-gold-mask.png",
+    "width": 1421,
+    "height": 2909,
+    "screen": {
+      "x": 67,
+      "y": 55,
+      "width": 1290,
+      "height": 2796
+    },
+    "landscape": {
+      "frame": "/frames/iphone-14-pro-max-silver-landscape.png",
+      "mask": "/frames/iphone-14-pro-max-gold-landscape-mask.png",
+      "width": 2909,
+      "height": 1421,
+      "screen": {
+        "x": 58,
+        "y": 67,
+        "width": 2796,
+        "height": 1290
+      }
+    }
+  },
+  "iphone-14-pro-max": {
+    "frame": "/frames/iphone-14-pro-max-space-black.png",
+    "mask": "/frames/iphone-14-pro-max-gold-mask.png",
+    "width": 1421,
+    "height": 2909,
+    "screen": {
+      "x": 67,
+      "y": 55,
+      "width": 1290,
+      "height": 2796
+    },
+    "landscape": {
+      "frame": "/frames/iphone-14-pro-max-space-black-landscape.png",
+      "mask": "/frames/iphone-14-pro-max-gold-landscape-mask.png",
+      "width": 2909,
+      "height": 1421,
+      "screen": {
+        "x": 58,
+        "y": 67,
+        "width": 2796,
+        "height": 1290
+      }
+    }
+  },
+  "iphone-16-black": {
+    "frame": "/frames/iphone-16-black.png",
+    "mask": "/frames/iphone-16-mask.png",
+    "width": 1313,
+    "height": 2674,
+    "screen": {
+      "x": 67,
+      "y": 59,
+      "width": 1179,
+      "height": 2556
+    },
+    "landscape": {
+      "frame": "/frames/iphone-16-black-landscape.png",
+      "mask": "/frames/iphone-16-landscape-mask.png",
+      "width": 2674,
+      "height": 1313,
+      "screen": {
+        "x": 59,
+        "y": 67,
+        "width": 2556,
+        "height": 1179
+      }
+    }
+  },
+  "iphone-16-pink": {
+    "frame": "/frames/iphone-16-pink.png",
+    "mask": "/frames/iphone-16-mask.png",
+    "width": 1313,
+    "height": 2674,
+    "screen": {
+      "x": 67,
+      "y": 59,
+      "width": 1179,
+      "height": 2556
+    },
+    "landscape": {
+      "frame": "/frames/iphone-16-pink-landscape.png",
+      "mask": "/frames/iphone-16-landscape-mask.png",
+      "width": 2674,
+      "height": 1313,
+      "screen": {
+        "x": 59,
+        "y": 67,
+        "width": 2556,
+        "height": 1179
+      }
+    }
+  },
+  "iphone-16-teal": {
+    "frame": "/frames/iphone-16-teal.png",
+    "mask": "/frames/iphone-16-mask.png",
+    "width": 1313,
+    "height": 2674,
+    "screen": {
+      "x": 67,
+      "y": 59,
+      "width": 1179,
+      "height": 2556
+    },
+    "landscape": {
+      "frame": "/frames/iphone-16-teal-landscape.png",
+      "mask": "/frames/iphone-16-landscape-mask.png",
+      "width": 2674,
+      "height": 1313,
+      "screen": {
+        "x": 59,
+        "y": 67,
+        "width": 2556,
+        "height": 1179
+      }
+    }
+  },
+  "iphone-16-ultramarine": {
+    "frame": "/frames/iphone-16-ultramarine.png",
+    "mask": "/frames/iphone-16-mask.png",
+    "width": 1313,
+    "height": 2674,
+    "screen": {
+      "x": 67,
+      "y": 59,
+      "width": 1179,
+      "height": 2556
+    },
+    "landscape": {
+      "frame": "/frames/iphone-16-ultramarine-landscape.png",
+      "mask": "/frames/iphone-16-landscape-mask.png",
+      "width": 2674,
+      "height": 1313,
+      "screen": {
+        "x": 59,
+        "y": 67,
+        "width": 2556,
+        "height": 1179
+      }
+    }
+  },
+  "iphone-16-white": {
+    "frame": "/frames/iphone-16-white.png",
+    "mask": "/frames/iphone-16-mask.png",
+    "width": 1313,
+    "height": 2674,
+    "screen": {
+      "x": 67,
+      "y": 59,
+      "width": 1179,
+      "height": 2556
+    },
+    "landscape": {
+      "frame": "/frames/iphone-16-white-landscape.png",
+      "mask": "/frames/iphone-16-landscape-mask.png",
+      "width": 2674,
+      "height": 1313,
+      "screen": {
+        "x": 59,
+        "y": 67,
+        "width": 2556,
+        "height": 1179
+      }
+    }
+  },
+  "iphone-16-plus-black": {
+    "frame": "/frames/iphone-16-plus-black.png",
+    "mask": "/frames/iphone-16-plus-pink-mask.png",
+    "width": 1424,
+    "height": 2914,
+    "screen": {
+      "x": 67,
+      "y": 59,
+      "width": 1290,
+      "height": 2796
+    },
+    "landscape": {
+      "frame": "/frames/iphone-16-plus-black-landscape.png",
+      "mask": "/frames/iphone-16-plus-pink-landscape-mask.png",
+      "width": 2914,
+      "height": 1424,
+      "screen": {
+        "x": 59,
+        "y": 67,
+        "width": 2796,
+        "height": 1290
+      }
+    }
+  },
+  "iphone-16-plus-pink": {
+    "frame": "/frames/iphone-16-plus-pink.png",
+    "mask": "/frames/iphone-16-plus-pink-mask.png",
+    "width": 1424,
+    "height": 2914,
+    "screen": {
+      "x": 67,
+      "y": 59,
+      "width": 1290,
+      "height": 2796
+    },
+    "landscape": {
+      "frame": "/frames/iphone-16-plus-pink-landscape.png",
+      "mask": "/frames/iphone-16-plus-pink-landscape-mask.png",
+      "width": 2914,
+      "height": 1424,
+      "screen": {
+        "x": 59,
+        "y": 67,
+        "width": 2796,
+        "height": 1290
+      }
+    }
+  },
+  "iphone-16-plus-teal": {
+    "frame": "/frames/iphone-16-plus-teal.png",
+    "mask": "/frames/iphone-16-plus-pink-mask.png",
+    "width": 1424,
+    "height": 2914,
+    "screen": {
+      "x": 67,
+      "y": 59,
+      "width": 1290,
+      "height": 2796
+    },
+    "landscape": {
+      "frame": "/frames/iphone-16-plus-teal-landscape.png",
+      "mask": "/frames/iphone-16-plus-pink-landscape-mask.png",
+      "width": 2914,
+      "height": 1424,
+      "screen": {
+        "x": 59,
+        "y": 67,
+        "width": 2796,
+        "height": 1290
+      }
+    }
+  },
+  "iphone-16-plus-ultramarine": {
+    "frame": "/frames/iphone-16-plus-ultramarine.png",
+    "mask": "/frames/iphone-16-plus-pink-mask.png",
+    "width": 1424,
+    "height": 2914,
+    "screen": {
+      "x": 67,
+      "y": 59,
+      "width": 1290,
+      "height": 2796
+    },
+    "landscape": {
+      "frame": "/frames/iphone-16-plus-ultramarine-landscape.png",
+      "mask": "/frames/iphone-16-plus-pink-landscape-mask.png",
+      "width": 2914,
+      "height": 1424,
+      "screen": {
+        "x": 59,
+        "y": 67,
+        "width": 2796,
+        "height": 1290
+      }
+    }
+  },
+  "iphone-16-plus-white": {
+    "frame": "/frames/iphone-16-plus-white.png",
+    "mask": "/frames/iphone-16-plus-pink-mask.png",
+    "width": 1424,
+    "height": 2914,
+    "screen": {
+      "x": 67,
+      "y": 59,
+      "width": 1290,
+      "height": 2796
+    },
+    "landscape": {
+      "frame": "/frames/iphone-16-plus-white-landscape.png",
+      "mask": "/frames/iphone-16-plus-pink-landscape-mask.png",
+      "width": 2914,
+      "height": 1424,
+      "screen": {
+        "x": 59,
+        "y": 67,
+        "width": 2796,
+        "height": 1290
+      }
+    }
+  },
+  "iphone-16-plus": {
+    "frame": "/frames/iphone-16-plus-black.png",
+    "mask": "/frames/iphone-16-plus-pink-mask.png",
+    "width": 1424,
+    "height": 2914,
+    "screen": {
+      "x": 67,
+      "y": 59,
+      "width": 1290,
+      "height": 2796
+    },
+    "landscape": {
+      "frame": "/frames/iphone-16-plus-black-landscape.png",
+      "mask": "/frames/iphone-16-plus-pink-landscape-mask.png",
+      "width": 2914,
+      "height": 1424,
+      "screen": {
+        "x": 59,
+        "y": 67,
+        "width": 2796,
+        "height": 1290
+      }
+    }
+  },
+  "iphone-16-pro-black-titanium": {
+    "frame": "/frames/iphone-16-pro-black-titanium.png",
+    "mask": "/frames/iphone-16-pro-black-titanium-mask.png",
+    "width": 1308,
+    "height": 2710,
+    "screen": {
+      "x": 51,
+      "y": 44,
+      "width": 1206,
+      "height": 2622
+    },
+    "landscape": {
+      "frame": "/frames/iphone-16-pro-black-titanium-landscape.png",
+      "mask": "/frames/iphone-16-pro-black-titanium-landscape-mask.png",
+      "width": 2710,
+      "height": 1308,
+      "screen": {
+        "x": 44,
+        "y": 51,
+        "width": 2622,
+        "height": 1206
+      }
+    }
+  },
+  "iphone-16-pro-desert-titanium": {
+    "frame": "/frames/iphone-16-pro-desert-titanium.png",
+    "mask": "/frames/iphone-16-pro-black-titanium-mask.png",
+    "width": 1308,
+    "height": 2710,
+    "screen": {
+      "x": 51,
+      "y": 44,
+      "width": 1206,
+      "height": 2622
+    },
+    "landscape": {
+      "frame": "/frames/iphone-16-pro-desert-titanium-landscape.png",
+      "mask": "/frames/iphone-16-pro-black-titanium-landscape-mask.png",
+      "width": 2710,
+      "height": 1308,
+      "screen": {
+        "x": 44,
+        "y": 51,
+        "width": 2622,
+        "height": 1206
+      }
+    }
+  },
+  "iphone-16-pro-natural-titanium": {
+    "frame": "/frames/iphone-16-pro-natural-titanium.png",
+    "mask": "/frames/iphone-16-pro-black-titanium-mask.png",
+    "width": 1308,
+    "height": 2710,
+    "screen": {
+      "x": 51,
+      "y": 44,
+      "width": 1206,
+      "height": 2622
+    },
+    "landscape": {
+      "frame": "/frames/iphone-16-pro-natural-titanium-landscape.png",
+      "mask": "/frames/iphone-16-pro-black-titanium-landscape-mask.png",
+      "width": 2710,
+      "height": 1308,
+      "screen": {
+        "x": 44,
+        "y": 51,
+        "width": 2622,
+        "height": 1206
+      }
+    }
+  },
+  "iphone-16-pro-white-titanium": {
+    "frame": "/frames/iphone-16-pro-white-titanium.png",
+    "mask": "/frames/iphone-16-pro-black-titanium-mask.png",
+    "width": 1308,
+    "height": 2710,
+    "screen": {
+      "x": 51,
+      "y": 44,
+      "width": 1206,
+      "height": 2622
+    },
+    "landscape": {
+      "frame": "/frames/iphone-16-pro-white-titanium-landscape.png",
+      "mask": "/frames/iphone-16-pro-black-titanium-landscape-mask.png",
+      "width": 2710,
+      "height": 1308,
+      "screen": {
+        "x": 44,
+        "y": 51,
+        "width": 2622,
+        "height": 1206
+      }
+    }
+  },
+  "iphone-16-pro": {
+    "frame": "/frames/iphone-16-pro-black-titanium.png",
+    "mask": "/frames/iphone-16-pro-black-titanium-mask.png",
+    "width": 1308,
+    "height": 2710,
+    "screen": {
+      "x": 51,
+      "y": 44,
+      "width": 1206,
+      "height": 2622
+    },
+    "landscape": {
+      "frame": "/frames/iphone-16-pro-black-titanium-landscape.png",
+      "mask": "/frames/iphone-16-pro-black-titanium-landscape-mask.png",
+      "width": 2710,
+      "height": 1308,
+      "screen": {
+        "x": 44,
+        "y": 51,
+        "width": 2622,
+        "height": 1206
+      }
+    }
+  },
+  "iphone-16-pro-max-black-titanium": {
+    "frame": "/frames/iphone-16-pro-max-black-titanium.png",
+    "mask": "/frames/iphone-16-pro-max-black-titanium-mask.png",
+    "width": 1424,
+    "height": 2956,
+    "screen": {
+      "x": 52,
+      "y": 44,
+      "width": 1320,
+      "height": 2868
+    },
+    "landscape": {
+      "frame": "/frames/iphone-16-pro-max-black-titanium-landscape.png",
+      "mask": "/frames/iphone-16-pro-max-black-titanium-landscape-mask.png",
+      "width": 2956,
+      "height": 1424,
+      "screen": {
+        "x": 44,
+        "y": 52,
+        "width": 2868,
+        "height": 1320
+      }
+    }
+  },
+  "iphone-16-pro-max-desert-titanium": {
+    "frame": "/frames/iphone-16-pro-max-desert-titanium.png",
+    "mask": "/frames/iphone-16-pro-max-black-titanium-mask.png",
+    "width": 1424,
+    "height": 2956,
+    "screen": {
+      "x": 52,
+      "y": 44,
+      "width": 1320,
+      "height": 2868
+    },
+    "landscape": {
+      "frame": "/frames/iphone-16-pro-max-desert-titanium-landscape.png",
+      "mask": "/frames/iphone-16-pro-max-black-titanium-landscape-mask.png",
+      "width": 2956,
+      "height": 1424,
+      "screen": {
+        "x": 44,
+        "y": 52,
+        "width": 2868,
+        "height": 1320
+      }
+    }
+  },
+  "iphone-16-pro-max-natural-titanium": {
+    "frame": "/frames/iphone-16-pro-max-natural-titanium.png",
+    "mask": "/frames/iphone-16-pro-max-black-titanium-mask.png",
+    "width": 1424,
+    "height": 2956,
+    "screen": {
+      "x": 52,
+      "y": 44,
+      "width": 1320,
+      "height": 2868
+    },
+    "landscape": {
+      "frame": "/frames/iphone-16-pro-max-natural-titanium-landscape.png",
+      "mask": "/frames/iphone-16-pro-max-black-titanium-landscape-mask.png",
+      "width": 2956,
+      "height": 1424,
+      "screen": {
+        "x": 44,
+        "y": 52,
+        "width": 2868,
+        "height": 1320
+      }
+    }
+  },
+  "iphone-16-pro-max-white-titanium": {
+    "frame": "/frames/iphone-16-pro-max-white-titanium.png",
+    "mask": "/frames/iphone-16-pro-max-black-titanium-mask.png",
+    "width": 1424,
+    "height": 2956,
+    "screen": {
+      "x": 52,
+      "y": 44,
+      "width": 1320,
+      "height": 2868
+    },
+    "landscape": {
+      "frame": "/frames/iphone-16-pro-max-white-titanium-landscape.png",
+      "mask": "/frames/iphone-16-pro-max-black-titanium-landscape-mask.png",
+      "width": 2956,
+      "height": 1424,
+      "screen": {
+        "x": 44,
+        "y": 52,
+        "width": 2868,
+        "height": 1320
+      }
+    }
+  },
+  "iphone-16-pro-max": {
+    "frame": "/frames/iphone-16-pro-max-black-titanium.png",
+    "mask": "/frames/iphone-16-pro-max-black-titanium-mask.png",
+    "width": 1424,
+    "height": 2956,
+    "screen": {
+      "x": 52,
+      "y": 44,
+      "width": 1320,
+      "height": 2868
+    },
+    "landscape": {
+      "frame": "/frames/iphone-16-pro-max-black-titanium-landscape.png",
+      "mask": "/frames/iphone-16-pro-max-black-titanium-landscape-mask.png",
+      "width": 2956,
+      "height": 1424,
+      "screen": {
+        "x": 44,
+        "y": 52,
+        "width": 2868,
+        "height": 1320
+      }
+    }
+  },
+  "iphone-17-black": {
+    "frame": "/frames/iphone-17-black.png",
+    "mask": "/frames/iphone-17-sage-mask.png",
+    "width": 1311,
+    "height": 2708,
+    "screen": {
+      "x": 53,
+      "y": 43,
+      "width": 1206,
+      "height": 2622
+    },
+    "landscape": {
+      "frame": "/frames/iphone-17-black-landscape.png",
+      "mask": "/frames/iphone-17-sage-landscape-mask.png",
+      "width": 2708,
+      "height": 1311,
+      "screen": {
+        "x": 43,
+        "y": 53,
+        "width": 2622,
+        "height": 1206
+      }
+    }
+  },
+  "iphone-17-lavender": {
+    "frame": "/frames/iphone-17-lavender.png",
+    "mask": "/frames/iphone-17-sage-mask.png",
+    "width": 1311,
+    "height": 2708,
+    "screen": {
+      "x": 53,
+      "y": 43,
+      "width": 1206,
+      "height": 2622
+    },
+    "landscape": {
+      "frame": "/frames/iphone-17-lavender-landscape.png",
+      "mask": "/frames/iphone-17-sage-landscape-mask.png",
+      "width": 2708,
+      "height": 1311,
+      "screen": {
+        "x": 43,
+        "y": 53,
+        "width": 2622,
+        "height": 1206
+      }
+    }
+  },
+  "iphone-17-mist-blue": {
+    "frame": "/frames/iphone-17-mist-blue.png",
+    "mask": "/frames/iphone-17-sage-mask.png",
+    "width": 1311,
+    "height": 2708,
+    "screen": {
+      "x": 53,
+      "y": 43,
+      "width": 1206,
+      "height": 2622
+    },
+    "landscape": {
+      "frame": "/frames/iphone-17-mist-blue-landscape.png",
+      "mask": "/frames/iphone-17-sage-landscape-mask.png",
+      "width": 2708,
+      "height": 1311,
+      "screen": {
+        "x": 43,
+        "y": 53,
+        "width": 2622,
+        "height": 1206
+      }
+    }
+  },
+  "iphone-17-sage": {
+    "frame": "/frames/iphone-17-sage.png",
+    "mask": "/frames/iphone-17-sage-mask.png",
+    "width": 1311,
+    "height": 2708,
+    "screen": {
+      "x": 53,
+      "y": 43,
+      "width": 1206,
+      "height": 2622
+    },
+    "landscape": {
+      "frame": "/frames/iphone-17-sage-landscape.png",
+      "mask": "/frames/iphone-17-sage-landscape-mask.png",
+      "width": 2708,
+      "height": 1311,
+      "screen": {
+        "x": 43,
+        "y": 53,
+        "width": 2622,
+        "height": 1206
+      }
+    }
+  },
+  "iphone-17-white": {
+    "frame": "/frames/iphone-17-white.png",
+    "mask": "/frames/iphone-17-sage-mask.png",
+    "width": 1311,
+    "height": 2708,
+    "screen": {
+      "x": 53,
+      "y": 43,
+      "width": 1206,
+      "height": 2622
+    },
+    "landscape": {
+      "frame": "/frames/iphone-17-white-landscape.png",
+      "mask": "/frames/iphone-17-sage-landscape-mask.png",
+      "width": 2708,
+      "height": 1311,
+      "screen": {
+        "x": 43,
+        "y": 53,
+        "width": 2622,
+        "height": 1206
+      }
+    }
+  },
+  "iphone-17": {
+    "frame": "/frames/iphone-17-black.png",
+    "mask": "/frames/iphone-17-sage-mask.png",
+    "width": 1311,
+    "height": 2708,
+    "screen": {
+      "x": 53,
+      "y": 43,
+      "width": 1206,
+      "height": 2622
+    },
+    "landscape": {
+      "frame": "/frames/iphone-17-black-landscape.png",
+      "mask": "/frames/iphone-17-sage-landscape-mask.png",
+      "width": 2708,
+      "height": 1311,
+      "screen": {
+        "x": 43,
+        "y": 53,
+        "width": 2622,
+        "height": 1206
+      }
+    }
+  },
+  "iphone-17-pro-cosmic-orange": {
+    "frame": "/frames/iphone-17-pro-cosmic-orange.png",
+    "mask": "/frames/iphone-17-pro-silver-mask.png",
+    "width": 1318,
+    "height": 2717,
+    "screen": {
+      "x": 56,
+      "y": 48,
+      "width": 1206,
+      "height": 2622
+    },
+    "landscape": {
+      "frame": "/frames/iphone-17-pro-cosmic-orange-landscape.png",
+      "mask": "/frames/iphone-17-pro-silver-landscape-mask.png",
+      "width": 2717,
+      "height": 1318,
+      "screen": {
+        "x": 47,
+        "y": 56,
+        "width": 2622,
+        "height": 1206
+      }
+    }
+  },
+  "iphone-17-pro-deep-blue": {
+    "frame": "/frames/iphone-17-pro-deep-blue.png",
+    "mask": "/frames/iphone-17-pro-silver-mask.png",
+    "width": 1318,
+    "height": 2717,
+    "screen": {
+      "x": 56,
+      "y": 48,
+      "width": 1206,
+      "height": 2622
+    },
+    "landscape": {
+      "frame": "/frames/iphone-17-pro-deep-blue-landscape.png",
+      "mask": "/frames/iphone-17-pro-silver-landscape-mask.png",
+      "width": 2717,
+      "height": 1318,
+      "screen": {
+        "x": 47,
+        "y": 56,
+        "width": 2622,
+        "height": 1206
+      }
+    }
+  },
+  "iphone-17-pro-silver": {
+    "frame": "/frames/iphone-17-pro-silver.png",
+    "mask": "/frames/iphone-17-pro-silver-mask.png",
+    "width": 1318,
+    "height": 2717,
+    "screen": {
+      "x": 56,
+      "y": 48,
+      "width": 1206,
+      "height": 2622
+    },
+    "landscape": {
+      "frame": "/frames/iphone-17-pro-silver-landscape.png",
+      "mask": "/frames/iphone-17-pro-silver-landscape-mask.png",
+      "width": 2717,
+      "height": 1318,
+      "screen": {
+        "x": 47,
+        "y": 56,
+        "width": 2622,
+        "height": 1206
+      }
+    }
+  },
+  "iphone-17-pro": {
+    "frame": "/frames/iphone-17-pro-cosmic-orange.png",
+    "mask": "/frames/iphone-17-pro-silver-mask.png",
+    "width": 1318,
+    "height": 2717,
+    "screen": {
+      "x": 56,
+      "y": 48,
+      "width": 1206,
+      "height": 2622
+    },
+    "landscape": {
+      "frame": "/frames/iphone-17-pro-cosmic-orange-landscape.png",
+      "mask": "/frames/iphone-17-pro-silver-landscape-mask.png",
+      "width": 2717,
+      "height": 1318,
+      "screen": {
+        "x": 47,
+        "y": 56,
+        "width": 2622,
+        "height": 1206
+      }
+    }
+  },
+  "iphone-17-pro-max-cosmic-orange": {
+    "frame": "/frames/iphone-17-pro-max-cosmic-orange.png",
+    "mask": "/frames/iphone-17-pro-max-silver-mask.png",
+    "width": 1428,
+    "height": 2959,
+    "screen": {
+      "x": 54,
+      "y": 46,
+      "width": 1320,
+      "height": 2868
+    },
+    "landscape": {
+      "frame": "/frames/iphone-17-pro-max-cosmic-orange-landscape.png",
+      "mask": "/frames/iphone-17-pro-max-silver-landscape-mask.png",
+      "width": 2959,
+      "height": 1428,
+      "screen": {
+        "x": 45,
+        "y": 54,
+        "width": 2868,
+        "height": 1320
+      }
+    }
+  },
+  "iphone-17-pro-max-deep-blue": {
+    "frame": "/frames/iphone-17-pro-max-deep-blue.png",
+    "mask": "/frames/iphone-17-pro-max-silver-mask.png",
+    "width": 1428,
+    "height": 2959,
+    "screen": {
+      "x": 54,
+      "y": 46,
+      "width": 1320,
+      "height": 2868
+    },
+    "landscape": {
+      "frame": "/frames/iphone-17-pro-max-deep-blue-landscape.png",
+      "mask": "/frames/iphone-17-pro-max-silver-landscape-mask.png",
+      "width": 2959,
+      "height": 1428,
+      "screen": {
+        "x": 45,
+        "y": 54,
+        "width": 2868,
+        "height": 1320
+      }
+    }
+  },
+  "iphone-17-pro-max-silver": {
+    "frame": "/frames/iphone-17-pro-max-silver.png",
+    "mask": "/frames/iphone-17-pro-max-silver-mask.png",
+    "width": 1428,
+    "height": 2959,
+    "screen": {
+      "x": 54,
+      "y": 46,
+      "width": 1320,
+      "height": 2868
+    },
+    "landscape": {
+      "frame": "/frames/iphone-17-pro-max-silver-landscape.png",
+      "mask": "/frames/iphone-17-pro-max-silver-landscape-mask.png",
+      "width": 2959,
+      "height": 1428,
+      "screen": {
+        "x": 45,
+        "y": 54,
+        "width": 2868,
+        "height": 1320
+      }
+    }
+  },
+  "iphone-17-pro-max": {
+    "frame": "/frames/iphone-17-pro-max-cosmic-orange.png",
+    "mask": "/frames/iphone-17-pro-max-silver-mask.png",
+    "width": 1428,
+    "height": 2959,
+    "screen": {
+      "x": 54,
+      "y": 46,
+      "width": 1320,
+      "height": 2868
+    },
+    "landscape": {
+      "frame": "/frames/iphone-17-pro-max-cosmic-orange-landscape.png",
+      "mask": "/frames/iphone-17-pro-max-silver-landscape-mask.png",
+      "width": 2959,
+      "height": 1428,
+      "screen": {
+        "x": 45,
+        "y": 54,
+        "width": 2868,
+        "height": 1320
+      }
+    }
+  },
+  "iphone-x-silver": {
+    "frame": "/frames/iphone-x-silver.png",
+    "mask": "/frames/iphone-xs-gold-mask.png",
+    "width": 1295,
+    "height": 2590,
+    "screen": {
+      "x": 85,
+      "y": 77,
+      "width": 1125,
+      "height": 2436
+    },
+    "landscape": {
+      "frame": "/frames/iphone-x-silver-landscape.png",
+      "mask": "/frames/iphone-xs-gold-landscape-mask.png",
+      "width": 2590,
+      "height": 1295,
+      "screen": {
+        "x": 77,
+        "y": 85,
+        "width": 2436,
+        "height": 1125
+      }
+    }
+  },
+  "iphone-x-space-gray": {
+    "frame": "/frames/iphone-x-space-gray.png",
+    "mask": "/frames/iphone-xs-gold-mask.png",
+    "width": 1295,
+    "height": 2590,
+    "screen": {
+      "x": 85,
+      "y": 77,
+      "width": 1125,
+      "height": 2436
+    },
+    "landscape": {
+      "frame": "/frames/iphone-x-space-gray-landscape.png",
+      "mask": "/frames/iphone-xs-gold-landscape-mask.png",
+      "width": 2590,
+      "height": 1295,
+      "screen": {
+        "x": 77,
+        "y": 85,
+        "width": 2436,
+        "height": 1125
+      }
+    }
+  },
+  "iphone-x": {
+    "frame": "/frames/iphone-x-silver.png",
+    "mask": "/frames/iphone-xs-gold-mask.png",
+    "width": 1295,
+    "height": 2590,
+    "screen": {
+      "x": 85,
+      "y": 77,
+      "width": 1125,
+      "height": 2436
+    },
+    "landscape": {
+      "frame": "/frames/iphone-x-silver-landscape.png",
+      "mask": "/frames/iphone-xs-gold-landscape-mask.png",
+      "width": 2590,
+      "height": 1295,
+      "screen": {
+        "x": 77,
+        "y": 85,
+        "width": 2436,
+        "height": 1125
+      }
+    }
+  },
+  "iphone-xr-blue": {
+    "frame": "/frames/iphone-xr-blue.png",
+    "mask": "/frames/iphone-11-red-mask.png",
+    "width": 979,
+    "height": 1934,
+    "screen": {
+      "x": 75,
+      "y": 71,
+      "width": 828,
+      "height": 1792
+    },
+    "landscape": {
+      "frame": "/frames/iphone-xr-blue-landscape.png",
+      "mask": "/frames/iphone-11-red-landscape-mask.png",
+      "width": 1934,
+      "height": 979,
+      "screen": {
+        "x": 71,
+        "y": 75,
+        "width": 1792,
+        "height": 828
+      }
+    }
+  },
+  "iphone-xr-coral": {
+    "frame": "/frames/iphone-xr-coral.png",
+    "mask": "/frames/iphone-11-red-mask.png",
+    "width": 979,
+    "height": 1934,
+    "screen": {
+      "x": 75,
+      "y": 71,
+      "width": 828,
+      "height": 1792
+    },
+    "landscape": {
+      "frame": "/frames/iphone-xr-coral-landscape.png",
+      "mask": "/frames/iphone-11-red-landscape-mask.png",
+      "width": 1934,
+      "height": 979,
+      "screen": {
+        "x": 71,
+        "y": 75,
+        "width": 1792,
+        "height": 828
+      }
+    }
+  },
+  "iphone-xr-red": {
+    "frame": "/frames/iphone-xr-red.png",
+    "mask": "/frames/iphone-11-red-mask.png",
+    "width": 979,
+    "height": 1934,
+    "screen": {
+      "x": 75,
+      "y": 71,
+      "width": 828,
+      "height": 1792
+    },
+    "landscape": {
+      "frame": "/frames/iphone-xr-red-landscape.png",
+      "mask": "/frames/iphone-11-red-landscape-mask.png",
+      "width": 1934,
+      "height": 979,
+      "screen": {
+        "x": 71,
+        "y": 75,
+        "width": 1792,
+        "height": 828
+      }
+    }
+  },
+  "iphone-xr-white": {
+    "frame": "/frames/iphone-xr-white.png",
+    "mask": "/frames/iphone-11-red-mask.png",
+    "width": 979,
+    "height": 1934,
+    "screen": {
+      "x": 75,
+      "y": 71,
+      "width": 828,
+      "height": 1792
+    },
+    "landscape": {
+      "frame": "/frames/iphone-xr-white-landscape.png",
+      "mask": "/frames/iphone-11-red-landscape-mask.png",
+      "width": 1934,
+      "height": 979,
+      "screen": {
+        "x": 71,
+        "y": 75,
+        "width": 1792,
+        "height": 828
+      }
+    }
+  },
+  "iphone-xr-black": {
+    "frame": "/frames/iphone-xr-black.png",
+    "mask": "/frames/iphone-11-red-mask.png",
+    "width": 979,
+    "height": 1934,
+    "screen": {
+      "x": 75,
+      "y": 71,
+      "width": 828,
+      "height": 1792
+    },
+    "landscape": {
+      "frame": "/frames/iphone-xr-black-landscape.png",
+      "mask": "/frames/iphone-11-red-landscape-mask.png",
+      "width": 1934,
+      "height": 979,
+      "screen": {
+        "x": 71,
+        "y": 75,
+        "width": 1792,
+        "height": 828
+      }
+    }
+  },
+  "iphone-xr-yellow": {
+    "frame": "/frames/iphone-xr-yellow.png",
+    "mask": "/frames/iphone-11-red-mask.png",
+    "width": 979,
+    "height": 1934,
+    "screen": {
+      "x": 75,
+      "y": 71,
+      "width": 828,
+      "height": 1792
+    },
+    "landscape": {
+      "frame": "/frames/iphone-xr-yellow-landscape.png",
+      "mask": "/frames/iphone-11-red-landscape-mask.png",
+      "width": 1934,
+      "height": 979,
+      "screen": {
+        "x": 71,
+        "y": 75,
+        "width": 1792,
+        "height": 828
+      }
+    }
+  },
+  "iphone-xr": {
+    "frame": "/frames/iphone-xr-blue.png",
+    "mask": "/frames/iphone-11-red-mask.png",
+    "width": 979,
+    "height": 1934,
+    "screen": {
+      "x": 75,
+      "y": 71,
+      "width": 828,
+      "height": 1792
+    },
+    "landscape": {
+      "frame": "/frames/iphone-xr-blue-landscape.png",
+      "mask": "/frames/iphone-11-red-landscape-mask.png",
+      "width": 1934,
+      "height": 979,
+      "screen": {
+        "x": 71,
+        "y": 75,
+        "width": 1792,
+        "height": 828
+      }
+    }
+  },
+  "iphone-xs-gold": {
+    "frame": "/frames/iphone-xs-gold.png",
+    "mask": "/frames/iphone-xs-gold-mask.png",
+    "width": 1295,
+    "height": 2590,
+    "screen": {
+      "x": 85,
+      "y": 77,
+      "width": 1125,
+      "height": 2436
+    },
+    "landscape": {
+      "frame": "/frames/iphone-xs-gold-landscape.png",
+      "mask": "/frames/iphone-xs-gold-landscape-mask.png",
+      "width": 2590,
+      "height": 1295,
+      "screen": {
+        "x": 77,
+        "y": 85,
+        "width": 2436,
+        "height": 1125
+      }
+    }
+  },
+  "iphone-xs-silver": {
+    "frame": "/frames/iphone-xs-silver.png",
+    "mask": "/frames/iphone-xs-gold-mask.png",
+    "width": 1295,
+    "height": 2590,
+    "screen": {
+      "x": 85,
+      "y": 77,
+      "width": 1125,
+      "height": 2436
+    },
+    "landscape": {
+      "frame": "/frames/iphone-xs-silver-landscape.png",
+      "mask": "/frames/iphone-xs-gold-landscape-mask.png",
+      "width": 2590,
+      "height": 1295,
+      "screen": {
+        "x": 77,
+        "y": 85,
+        "width": 2436,
+        "height": 1125
+      }
+    }
+  },
+  "iphone-xs-space-gray": {
+    "frame": "/frames/iphone-xs-space-gray.png",
+    "mask": "/frames/iphone-xs-gold-mask.png",
+    "width": 1295,
+    "height": 2590,
+    "screen": {
+      "x": 85,
+      "y": 77,
+      "width": 1125,
+      "height": 2436
+    },
+    "landscape": {
+      "frame": "/frames/iphone-xs-space-gray-landscape.png",
+      "mask": "/frames/iphone-xs-gold-landscape-mask.png",
+      "width": 2590,
+      "height": 1295,
+      "screen": {
+        "x": 77,
+        "y": 85,
+        "width": 2436,
+        "height": 1125
+      }
+    }
+  },
+  "iphone-xs": {
+    "frame": "/frames/iphone-xs-gold.png",
+    "mask": "/frames/iphone-xs-gold-mask.png",
+    "width": 1295,
+    "height": 2590,
+    "screen": {
+      "x": 85,
+      "y": 77,
+      "width": 1125,
+      "height": 2436
+    },
+    "landscape": {
+      "frame": "/frames/iphone-xs-gold-landscape.png",
+      "mask": "/frames/iphone-xs-gold-landscape-mask.png",
+      "width": 2590,
+      "height": 1295,
+      "screen": {
+        "x": 77,
+        "y": 85,
+        "width": 2436,
+        "height": 1125
+      }
+    }
+  },
+  "iphone-xs-max-gold": {
+    "frame": "/frames/iphone-xs-max-gold.png",
+    "mask": "/frames/iphone-xs-max-gold-mask.png",
+    "width": 1413,
+    "height": 2844,
+    "screen": {
+      "x": 86,
+      "y": 78,
+      "width": 1242,
+      "height": 2688
+    },
+    "landscape": {
+      "frame": "/frames/iphone-xs-max-gold-landscape.png",
+      "mask": "/frames/iphone-xs-max-gold-landscape-mask.png",
+      "width": 2844,
+      "height": 1413,
+      "screen": {
+        "x": 78,
+        "y": 86,
+        "width": 2688,
+        "height": 1242
+      }
+    }
+  },
+  "iphone-xs-max-silver": {
+    "frame": "/frames/iphone-xs-max-silver.png",
+    "mask": "/frames/iphone-xs-max-gold-mask.png",
+    "width": 1413,
+    "height": 2844,
+    "screen": {
+      "x": 86,
+      "y": 78,
+      "width": 1242,
+      "height": 2688
+    },
+    "landscape": {
+      "frame": "/frames/iphone-xs-max-silver-landscape.png",
+      "mask": "/frames/iphone-xs-max-gold-landscape-mask.png",
+      "width": 2844,
+      "height": 1413,
+      "screen": {
+        "x": 78,
+        "y": 86,
+        "width": 2688,
+        "height": 1242
+      }
+    }
+  },
+  "iphone-xs-max-space-gray": {
+    "frame": "/frames/iphone-xs-max-space-gray.png",
+    "mask": "/frames/iphone-xs-max-gold-mask.png",
+    "width": 1413,
+    "height": 2844,
+    "screen": {
+      "x": 86,
+      "y": 78,
+      "width": 1242,
+      "height": 2688
+    },
+    "landscape": {
+      "frame": "/frames/iphone-xs-max-space-gray-landscape.png",
+      "mask": "/frames/iphone-xs-max-gold-landscape-mask.png",
+      "width": 2844,
+      "height": 1413,
+      "screen": {
+        "x": 78,
+        "y": 86,
+        "width": 2688,
+        "height": 1242
+      }
+    }
+  },
+  "iphone-xs-max": {
+    "frame": "/frames/iphone-xs-max-gold.png",
+    "mask": "/frames/iphone-xs-max-gold-mask.png",
+    "width": 1413,
+    "height": 2844,
+    "screen": {
+      "x": 86,
+      "y": 78,
+      "width": 1242,
+      "height": 2688
+    },
+    "landscape": {
+      "frame": "/frames/iphone-xs-max-gold-landscape.png",
+      "mask": "/frames/iphone-xs-max-gold-landscape-mask.png",
+      "width": 2844,
+      "height": 1413,
+      "screen": {
+        "x": 78,
+        "y": 86,
+        "width": 2688,
+        "height": 1242
+      }
+    }
+  },
+  "iphone-15-plus-black": {
+    "frame": "/frames/iphone-15-plus-black.png",
+    "mask": "/frames/iphone-15-plus-black-mask.png",
+    "width": 1426,
+    "height": 2914,
+    "screen": {
+      "x": 69,
+      "y": 59,
+      "width": 1290,
+      "height": 2796
+    },
+    "landscape": {
+      "frame": "/frames/iphone-15-plus-black-landscape.png",
+      "mask": "/frames/iphone-15-plus-black-landscape-mask.png",
+      "width": 2914,
+      "height": 1426,
+      "screen": {
+        "x": 59,
+        "y": 69,
+        "width": 2796,
+        "height": 1290
+      }
+    }
+  },
+  "iphone-15-plus-blue": {
+    "frame": "/frames/iphone-15-plus-blue.png",
+    "mask": "/frames/iphone-15-plus-blue-mask.png",
+    "width": 1427,
+    "height": 2914,
+    "screen": {
+      "x": 70,
+      "y": 59,
+      "width": 1289,
+      "height": 2796
+    },
+    "landscape": {
+      "frame": "/frames/iphone-15-plus-blue-landscape.png",
+      "mask": "/frames/iphone-15-plus-blue-landscape-mask.png",
+      "width": 2914,
+      "height": 1427,
+      "screen": {
+        "x": 59,
+        "y": 70,
+        "width": 2796,
+        "height": 1289
+      }
+    }
+  },
+  "iphone-15-plus-green": {
+    "frame": "/frames/iphone-15-plus-green.png",
+    "mask": "/frames/iphone-15-plus-black-mask.png",
+    "width": 1426,
+    "height": 2914,
+    "screen": {
+      "x": 69,
+      "y": 59,
+      "width": 1290,
+      "height": 2796
+    },
+    "landscape": {
+      "frame": "/frames/iphone-15-plus-green-landscape.png",
+      "mask": "/frames/iphone-15-plus-black-landscape-mask.png",
+      "width": 2914,
+      "height": 1426,
+      "screen": {
+        "x": 59,
+        "y": 69,
+        "width": 2796,
+        "height": 1290
+      }
+    }
+  },
+  "iphone-15-plus-pink": {
+    "frame": "/frames/iphone-15-plus-pink.png",
+    "mask": "/frames/iphone-15-plus-blue-mask.png",
+    "width": 1427,
+    "height": 2914,
+    "screen": {
+      "x": 70,
+      "y": 59,
+      "width": 1289,
+      "height": 2796
+    },
+    "landscape": {
+      "frame": "/frames/iphone-15-plus-pink-landscape.png",
+      "mask": "/frames/iphone-15-plus-blue-landscape-mask.png",
+      "width": 2914,
+      "height": 1427,
+      "screen": {
+        "x": 59,
+        "y": 70,
+        "width": 2796,
+        "height": 1289
+      }
+    }
+  },
+  "iphone-15-plus-yellow": {
+    "frame": "/frames/iphone-15-plus-yellow.png",
+    "mask": "/frames/iphone-15-plus-black-mask.png",
+    "width": 1426,
+    "height": 2914,
+    "screen": {
+      "x": 69,
+      "y": 59,
+      "width": 1290,
+      "height": 2796
+    },
+    "landscape": {
+      "frame": "/frames/iphone-15-plus-yellow-landscape.png",
+      "mask": "/frames/iphone-15-plus-black-landscape-mask.png",
+      "width": 2914,
+      "height": 1426,
+      "screen": {
+        "x": 59,
+        "y": 69,
+        "width": 2796,
+        "height": 1290
+      }
+    }
+  },
+  "iphone-15-plus": {
+    "frame": "/frames/iphone-15-plus-black.png",
+    "mask": "/frames/iphone-15-plus-black-mask.png",
+    "width": 1426,
+    "height": 2914,
+    "screen": {
+      "x": 69,
+      "y": 59,
+      "width": 1290,
+      "height": 2796
+    },
+    "landscape": {
+      "frame": "/frames/iphone-15-plus-black-landscape.png",
+      "mask": "/frames/iphone-15-plus-black-landscape-mask.png",
+      "width": 2914,
+      "height": 1426,
+      "screen": {
+        "x": 59,
+        "y": 69,
+        "width": 2796,
+        "height": 1290
+      }
+    }
+  },
+  "iphone-15-pro-max-black-titanium": {
+    "frame": "/frames/iphone-15-pro-max-black-titanium.png",
+    "mask": "/frames/iphone-15-pro-max-black-titanium-mask.png",
+    "width": 1404,
+    "height": 2896,
+    "screen": {
+      "x": 57,
+      "y": 50,
+      "width": 1290,
+      "height": 2796
+    },
+    "landscape": {
+      "frame": "/frames/iphone-15-pro-max-black-titanium-landscape.png",
+      "mask": "/frames/iphone-15-pro-max-black-titanium-landscape-mask.png",
+      "width": 2896,
+      "height": 1404,
+      "screen": {
+        "x": 50,
+        "y": 57,
+        "width": 2796,
+        "height": 1290
+      }
+    }
+  },
+  "iphone-15-pro-max-blue-titanium": {
+    "frame": "/frames/iphone-15-pro-max-blue-titanium.png",
+    "mask": "/frames/iphone-15-pro-max-blue-titanium-mask.png",
+    "width": 1405,
+    "height": 2896,
+    "screen": {
+      "x": 58,
+      "y": 50,
+      "width": 1289,
+      "height": 2796
+    },
+    "landscape": {
+      "frame": "/frames/iphone-15-pro-max-blue-titanium-landscape.png",
+      "mask": "/frames/iphone-15-pro-max-blue-titanium-landscape-mask.png",
+      "width": 2896,
+      "height": 1405,
+      "screen": {
+        "x": 50,
+        "y": 58,
+        "width": 2796,
+        "height": 1289
+      }
+    }
+  },
+  "iphone-15-pro-max-natural-titanium": {
+    "frame": "/frames/iphone-15-pro-max-natural-titanium.png",
+    "mask": "/frames/iphone-15-pro-max-black-titanium-mask.png",
+    "width": 1404,
+    "height": 2896,
+    "screen": {
+      "x": 57,
+      "y": 50,
+      "width": 1290,
+      "height": 2796
+    },
+    "landscape": {
+      "frame": "/frames/iphone-15-pro-max-natural-titanium-landscape.png",
+      "mask": "/frames/iphone-15-pro-max-black-titanium-landscape-mask.png",
+      "width": 2896,
+      "height": 1404,
+      "screen": {
+        "x": 50,
+        "y": 57,
+        "width": 2796,
+        "height": 1290
+      }
+    }
+  },
+  "iphone-15-pro-max-white-titanium": {
+    "frame": "/frames/iphone-15-pro-max-white-titanium.png",
+    "mask": "/frames/iphone-15-pro-max-blue-titanium-mask.png",
+    "width": 1405,
+    "height": 2896,
+    "screen": {
+      "x": 58,
+      "y": 50,
+      "width": 1289,
+      "height": 2796
+    },
+    "landscape": {
+      "frame": "/frames/iphone-15-pro-max-white-titanium-landscape.png",
+      "mask": "/frames/iphone-15-pro-max-blue-titanium-landscape-mask.png",
+      "width": 2896,
+      "height": 1405,
+      "screen": {
+        "x": 50,
+        "y": 58,
+        "width": 2796,
+        "height": 1289
+      }
+    }
+  },
+  "iphone-15-pro-black-titanium": {
+    "frame": "/frames/iphone-15-pro-black-titanium.png",
+    "mask": "/frames/iphone-15-pro-mask.png",
+    "width": 1293,
+    "height": 2656,
+    "screen": {
+      "x": 58,
+      "y": 50,
+      "width": 1179,
+      "height": 2556
+    },
+    "landscape": {
+      "frame": "/frames/iphone-15-pro-black-titanium-landscape.png",
+      "mask": "/frames/iphone-15-pro-landscape-mask.png",
+      "width": 2656,
+      "height": 1293,
+      "screen": {
+        "x": 50,
+        "y": 58,
+        "width": 2556,
+        "height": 1179
+      }
+    }
+  },
+  "iphone-15-pro-blue-titanium": {
+    "frame": "/frames/iphone-15-pro-blue-titanium.png",
+    "mask": "/frames/iphone-15-pro-blue-titanium-mask.png",
+    "width": 1294,
+    "height": 2656,
+    "screen": {
+      "x": 59,
+      "y": 50,
+      "width": 1178,
+      "height": 2556
+    },
+    "landscape": {
+      "frame": "/frames/iphone-15-pro-blue-titanium-landscape.png",
+      "mask": "/frames/iphone-15-pro-blue-titanium-landscape-mask.png",
+      "width": 2656,
+      "height": 1294,
+      "screen": {
+        "x": 50,
+        "y": 59,
+        "width": 2556,
+        "height": 1178
+      }
+    }
+  },
+  "iphone-15-pro-natural-titanium": {
+    "frame": "/frames/iphone-15-pro-natural-titanium.png",
+    "mask": "/frames/iphone-15-pro-natural-titanium-mask.png",
+    "width": 1294,
+    "height": 2656,
+    "screen": {
+      "x": 59,
+      "y": 50,
+      "width": 1178,
+      "height": 2556
+    },
+    "landscape": {
+      "frame": "/frames/iphone-15-pro-natural-titanium-landscape.png",
+      "mask": "/frames/iphone-15-pro-natural-titanium-landscape-mask.png",
+      "width": 2656,
+      "height": 1294,
+      "screen": {
+        "x": 50,
+        "y": 59,
+        "width": 2556,
+        "height": 1178
+      }
+    }
+  },
+  "iphone-15-pro-white-titanium": {
+    "frame": "/frames/iphone-15-pro-white-titanium.png",
+    "mask": "/frames/iphone-15-pro-white-titanium-mask.png",
+    "width": 1294,
+    "height": 2656,
+    "screen": {
+      "x": 59,
+      "y": 50,
+      "width": 1178,
+      "height": 2556
+    },
+    "landscape": {
+      "frame": "/frames/iphone-15-pro-white-titanium-landscape.png",
+      "mask": "/frames/iphone-15-pro-white-titanium-landscape-mask.png",
+      "width": 2656,
+      "height": 1294,
+      "screen": {
+        "x": 50,
+        "y": 59,
+        "width": 2556,
+        "height": 1178
+      }
+    }
+  },
+  "iphone-15-black": {
+    "frame": "/frames/iphone-15-black.png",
+    "mask": "/frames/iphone-15-mask.png",
+    "width": 1316,
+    "height": 2674,
+    "screen": {
+      "x": 70,
+      "y": 59,
+      "width": 1179,
+      "height": 2556
+    },
+    "landscape": {
+      "frame": "/frames/iphone-15-black-landscape.png",
+      "mask": "/frames/iphone-15-landscape-mask.png",
+      "width": 2674,
+      "height": 1316,
+      "screen": {
+        "x": 59,
+        "y": 70,
+        "width": 2556,
+        "height": 1179
+      }
+    }
+  },
+  "iphone-15-blue": {
+    "frame": "/frames/iphone-15-blue.png",
+    "mask": "/frames/iphone-15-blue-mask.png",
+    "width": 1317,
+    "height": 2674,
+    "screen": {
+      "x": 71,
+      "y": 59,
+      "width": 1178,
+      "height": 2556
+    },
+    "landscape": {
+      "frame": "/frames/iphone-15-blue-landscape.png",
+      "mask": "/frames/iphone-15-blue-landscape-mask.png",
+      "width": 2674,
+      "height": 1317,
+      "screen": {
+        "x": 59,
+        "y": 71,
+        "width": 2556,
+        "height": 1178
+      }
+    }
+  },
+  "iphone-15-green": {
+    "frame": "/frames/iphone-15-green.png",
+    "mask": "/frames/iphone-15-green-mask.png",
+    "width": 1317,
+    "height": 2674,
+    "screen": {
+      "x": 71,
+      "y": 59,
+      "width": 1178,
+      "height": 2556
+    },
+    "landscape": {
+      "frame": "/frames/iphone-15-green-landscape.png",
+      "mask": "/frames/iphone-15-green-landscape-mask.png",
+      "width": 2674,
+      "height": 1317,
+      "screen": {
+        "x": 59,
+        "y": 71,
+        "width": 2556,
+        "height": 1178
+      }
+    }
+  },
+  "iphone-15-pink": {
+    "frame": "/frames/iphone-15-pink.png",
+    "mask": "/frames/iphone-15-pink-mask.png",
+    "width": 1317,
+    "height": 2674,
+    "screen": {
+      "x": 71,
+      "y": 59,
+      "width": 1178,
+      "height": 2556
+    },
+    "landscape": {
+      "frame": "/frames/iphone-15-pink-landscape.png",
+      "mask": "/frames/iphone-15-pink-landscape-mask.png",
+      "width": 2674,
+      "height": 1317,
+      "screen": {
+        "x": 59,
+        "y": 71,
+        "width": 2556,
+        "height": 1178
+      }
+    }
+  },
+  "iphone-15-yellow": {
+    "frame": "/frames/iphone-15-yellow.png",
+    "mask": "/frames/iphone-15-mask.png",
+    "width": 1316,
+    "height": 2674,
+    "screen": {
+      "x": 70,
+      "y": 59,
+      "width": 1179,
+      "height": 2556
+    },
+    "landscape": {
+      "frame": "/frames/iphone-15-yellow-landscape.png",
+      "mask": "/frames/iphone-15-landscape-mask.png",
+      "width": 2674,
+      "height": 1316,
+      "screen": {
+        "x": 59,
+        "y": 70,
+        "width": 2556,
+        "height": 1179
+      }
+    }
+  },
+  "iphone-air-cloud-white": {
+    "frame": "/frames/iphone-air-cloud-white.png",
+    "mask": "/frames/iphone-air-sky-blue-mask.png",
+    "width": 1372,
+    "height": 2830,
+    "screen": {
+      "x": 57,
+      "y": 48,
+      "width": 1258,
+      "height": 2734
+    },
+    "landscape": {
+      "frame": "/frames/iphone-air-cloud-white-landscape.png",
+      "mask": "/frames/iphone-air-sky-blue-landscape-mask.png",
+      "width": 2830,
+      "height": 1372,
+      "screen": {
+        "x": 48,
+        "y": 57,
+        "width": 2734,
+        "height": 1258
+      }
+    }
+  },
+  "iphone-air-light-gold": {
+    "frame": "/frames/iphone-air-light-gold.png",
+    "mask": "/frames/iphone-air-light-gold-mask.png",
+    "width": 1372,
+    "height": 2830,
+    "screen": {
+      "x": 56,
+      "y": 47,
+      "width": 1260,
+      "height": 2736
+    },
+    "landscape": {
+      "frame": "/frames/iphone-air-light-gold-landscape.png",
+      "mask": "/frames/iphone-air-light-gold-landscape-mask.png",
+      "width": 2830,
+      "height": 1372,
+      "screen": {
+        "x": 47,
+        "y": 56,
+        "width": 2736,
+        "height": 1260
+      }
+    }
+  },
+  "iphone-air-sky-blue": {
+    "frame": "/frames/iphone-air-sky-blue.png",
+    "mask": "/frames/iphone-air-sky-blue-mask.png",
+    "width": 1372,
+    "height": 2830,
+    "screen": {
+      "x": 57,
+      "y": 48,
+      "width": 1258,
+      "height": 2734
+    },
+    "landscape": {
+      "frame": "/frames/iphone-air-sky-blue-landscape.png",
+      "mask": "/frames/iphone-air-sky-blue-landscape-mask.png",
+      "width": 2830,
+      "height": 1372,
+      "screen": {
+        "x": 48,
+        "y": 57,
+        "width": 2734,
+        "height": 1258
+      }
+    }
+  },
+  "iphone-air-space-black": {
+    "frame": "/frames/iphone-air-space-black.png",
+    "mask": "/frames/iphone-air-light-gold-mask.png",
+    "width": 1372,
+    "height": 2830,
+    "screen": {
+      "x": 56,
+      "y": 47,
+      "width": 1260,
+      "height": 2736
+    },
+    "landscape": {
+      "frame": "/frames/iphone-air-space-black-landscape.png",
+      "mask": "/frames/iphone-air-light-gold-landscape-mask.png",
+      "width": 2830,
+      "height": 1372,
+      "screen": {
+        "x": 47,
+        "y": 56,
+        "width": 2736,
+        "height": 1260
+      }
+    }
+  },
+  "iphone-air": {
+    "frame": "/frames/iphone-air-cloud-white.png",
+    "mask": "/frames/iphone-air-sky-blue-mask.png",
+    "width": 1372,
+    "height": 2830,
+    "screen": {
+      "x": 57,
+      "y": 48,
+      "width": 1258,
+      "height": 2734
+    },
+    "landscape": {
+      "frame": "/frames/iphone-air-cloud-white-landscape.png",
+      "mask": "/frames/iphone-air-sky-blue-landscape-mask.png",
+      "width": 2830,
+      "height": 1372,
+      "screen": {
+        "x": 48,
+        "y": 57,
+        "width": 2734,
+        "height": 1258
+      }
+    }
+  },
+  "iphone-18-pro-max-black": {
+    "frame": "/frames/iphone-18-pro-max-black.png",
+    "mask": "/frames/iphone-18-pro-max-black-mask.png",
+    "width": 1428,
+    "height": 2959,
+    "screen": {
+      "x": 54,
+      "y": 46,
+      "width": 1320,
+      "height": 2868
+    },
+    "landscape": {
+      "frame": "/frames/iphone-18-pro-max-black-landscape.png",
+      "mask": "/frames/iphone-18-pro-max-black-landscape-mask.png",
+      "width": 2959,
+      "height": 1428,
+      "screen": {
+        "x": 45,
+        "y": 54,
+        "width": 2868,
+        "height": 1320
+      }
+    }
+  },
+  "iphone-18-pro-max-burgundy": {
+    "frame": "/frames/iphone-18-pro-max-burgundy.png",
+    "mask": "/frames/iphone-18-pro-max-black-mask.png",
+    "width": 1428,
+    "height": 2959,
+    "screen": {
+      "x": 54,
+      "y": 46,
+      "width": 1320,
+      "height": 2868
+    },
+    "landscape": {
+      "frame": "/frames/iphone-18-pro-max-burgundy-landscape.png",
+      "mask": "/frames/iphone-18-pro-max-black-landscape-mask.png",
+      "width": 2959,
+      "height": 1428,
+      "screen": {
+        "x": 45,
+        "y": 54,
+        "width": 2868,
+        "height": 1320
+      }
+    }
+  },
+  "iphone-18-pro-max-glacier": {
+    "frame": "/frames/iphone-18-pro-max-glacier.png",
+    "mask": "/frames/iphone-18-pro-max-black-mask.png",
+    "width": 1428,
+    "height": 2959,
+    "screen": {
+      "x": 54,
+      "y": 46,
+      "width": 1320,
+      "height": 2868
+    },
+    "landscape": {
+      "frame": "/frames/iphone-18-pro-max-glacier-landscape.png",
+      "mask": "/frames/iphone-18-pro-max-black-landscape-mask.png",
+      "width": 2959,
+      "height": 1428,
+      "screen": {
+        "x": 45,
+        "y": 54,
+        "width": 2868,
+        "height": 1320
+      }
+    }
+  },
+  "iphone-18-pro-max-silver": {
+    "frame": "/frames/iphone-18-pro-max-silver.png",
+    "mask": "/frames/iphone-18-pro-max-black-mask.png",
+    "width": 1428,
+    "height": 2959,
+    "screen": {
+      "x": 54,
+      "y": 46,
+      "width": 1320,
+      "height": 2868
+    },
+    "landscape": {
+      "frame": "/frames/iphone-18-pro-max-silver-landscape.png",
+      "mask": "/frames/iphone-18-pro-max-black-landscape-mask.png",
+      "width": 2959,
+      "height": 1428,
+      "screen": {
+        "x": 45,
+        "y": 54,
+        "width": 2868,
+        "height": 1320
+      }
+    }
+  },
+  "iphone-18-pro-max": {
+    "frame": "/frames/iphone-18-pro-max-black.png",
+    "mask": "/frames/iphone-18-pro-max-black-mask.png",
+    "width": 1428,
+    "height": 2959,
+    "screen": {
+      "x": 54,
+      "y": 46,
+      "width": 1320,
+      "height": 2868
+    },
+    "landscape": {
+      "frame": "/frames/iphone-18-pro-max-black-landscape.png",
+      "mask": "/frames/iphone-18-pro-max-black-landscape-mask.png",
+      "width": 2959,
+      "height": 1428,
+      "screen": {
+        "x": 45,
+        "y": 54,
+        "width": 2868,
+        "height": 1320
+      }
+    }
+  },
+  "iphone-18-pro-black": {
+    "frame": "/frames/iphone-18-pro-black.png",
+    "mask": "/frames/iphone-18-pro-black-mask.png",
+    "width": 1318,
+    "height": 2717,
+    "screen": {
+      "x": 56,
+      "y": 48,
+      "width": 1206,
+      "height": 2622
+    },
+    "landscape": {
+      "frame": "/frames/iphone-18-pro-black-landscape.png",
+      "mask": "/frames/iphone-18-pro-black-landscape-mask.png",
+      "width": 2717,
+      "height": 1318,
+      "screen": {
+        "x": 47,
+        "y": 56,
+        "width": 2622,
+        "height": 1206
+      }
+    }
+  },
+  "iphone-18-pro-burgundy": {
+    "frame": "/frames/iphone-18-pro-burgundy.png",
+    "mask": "/frames/iphone-18-pro-black-mask.png",
+    "width": 1318,
+    "height": 2717,
+    "screen": {
+      "x": 56,
+      "y": 48,
+      "width": 1206,
+      "height": 2622
+    },
+    "landscape": {
+      "frame": "/frames/iphone-18-pro-burgundy-landscape.png",
+      "mask": "/frames/iphone-18-pro-black-landscape-mask.png",
+      "width": 2717,
+      "height": 1318,
+      "screen": {
+        "x": 47,
+        "y": 56,
+        "width": 2622,
+        "height": 1206
+      }
+    }
+  },
+  "iphone-18-pro-glacier": {
+    "frame": "/frames/iphone-18-pro-glacier.png",
+    "mask": "/frames/iphone-18-pro-black-mask.png",
+    "width": 1318,
+    "height": 2717,
+    "screen": {
+      "x": 56,
+      "y": 48,
+      "width": 1206,
+      "height": 2622
+    },
+    "landscape": {
+      "frame": "/frames/iphone-18-pro-glacier-landscape.png",
+      "mask": "/frames/iphone-18-pro-black-landscape-mask.png",
+      "width": 2717,
+      "height": 1318,
+      "screen": {
+        "x": 47,
+        "y": 56,
+        "width": 2622,
+        "height": 1206
+      }
+    }
+  },
+  "iphone-18-pro-silver": {
+    "frame": "/frames/iphone-18-pro-silver.png",
+    "mask": "/frames/iphone-18-pro-black-mask.png",
+    "width": 1318,
+    "height": 2717,
+    "screen": {
+      "x": 56,
+      "y": 48,
+      "width": 1206,
+      "height": 2622
+    },
+    "landscape": {
+      "frame": "/frames/iphone-18-pro-silver-landscape.png",
+      "mask": "/frames/iphone-18-pro-black-landscape-mask.png",
+      "width": 2717,
+      "height": 1318,
+      "screen": {
+        "x": 47,
+        "y": 56,
+        "width": 2622,
+        "height": 1206
+      }
+    }
+  },
+  "iphone-18-pro": {
+    "frame": "/frames/iphone-18-pro-black.png",
+    "mask": "/frames/iphone-18-pro-black-mask.png",
+    "width": 1318,
+    "height": 2717,
+    "screen": {
+      "x": 56,
+      "y": 48,
+      "width": 1206,
+      "height": 2622
+    },
+    "landscape": {
+      "frame": "/frames/iphone-18-pro-black-landscape.png",
+      "mask": "/frames/iphone-18-pro-black-landscape-mask.png",
+      "width": 2717,
+      "height": 1318,
+      "screen": {
+        "x": 47,
+        "y": 56,
+        "width": 2622,
+        "height": 1206
+      }
+    }
+  },
+  "iphone-se-black": {
+    "frame": "/frames/iphone-se-black.png",
+    "mask": "/frames/iphone-se-red-mask.png",
+    "width": 871,
+    "height": 1776,
+    "screen": {
+      "x": 61,
+      "y": 219,
+      "width": 750,
+      "height": 1334
+    },
+    "landscape": {
+      "frame": "/frames/iphone-se-black-landscape.png",
+      "mask": "/frames/iphone-se-red-landscape-mask.png",
+      "width": 1776,
+      "height": 871,
+      "screen": {
+        "x": 223,
+        "y": 61,
+        "width": 1334,
+        "height": 750
+      }
+    }
+  },
+  "iphone-se-red": {
+    "frame": "/frames/iphone-se-red.png",
+    "mask": "/frames/iphone-se-red-mask.png",
+    "width": 871,
+    "height": 1776,
+    "screen": {
+      "x": 61,
+      "y": 219,
+      "width": 750,
+      "height": 1334
+    },
+    "landscape": {
+      "frame": "/frames/iphone-se-red-landscape.png",
+      "mask": "/frames/iphone-se-red-landscape-mask.png",
+      "width": 1776,
+      "height": 871,
+      "screen": {
+        "x": 223,
+        "y": 61,
+        "width": 1334,
+        "height": 750
+      }
+    }
+  },
+  "iphone-se-white": {
+    "frame": "/frames/iphone-se-white.png",
+    "mask": "/frames/iphone-se-red-mask.png",
+    "width": 871,
+    "height": 1776,
+    "screen": {
+      "x": 61,
+      "y": 219,
+      "width": 750,
+      "height": 1334
+    },
+    "landscape": {
+      "frame": "/frames/iphone-se-white-landscape.png",
+      "mask": "/frames/iphone-se-red-landscape-mask.png",
+      "width": 1776,
+      "height": 871,
+      "screen": {
+        "x": 223,
+        "y": 61,
+        "width": 1334,
+        "height": 750
+      }
+    }
+  }
+}

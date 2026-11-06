@@ -1,0 +1,1240 @@
+[
+  {
+    "id": "iphone-11",
+    "name": "iPhone 11",
+    "width": 414,
+    "height": 896,
+    "top": 44,
+    "bottom": 34,
+    "colors": [
+      {
+        "id": "black",
+        "name": "Negro",
+        "asset": "iphone-11-black",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2011%20Black.png"
+      },
+      {
+        "id": "green",
+        "name": "Verde",
+        "asset": "iphone-11-green",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2011%20Green.png"
+      },
+      {
+        "id": "purple",
+        "name": "Morado",
+        "asset": "iphone-11-purple",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2011%20Purple.png"
+      },
+      {
+        "id": "red",
+        "name": "Rojo",
+        "asset": "iphone-11-red",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2011%20Red.png"
+      },
+      {
+        "id": "white",
+        "name": "Blanco",
+        "asset": "iphone-11-white",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2011%20White.png"
+      },
+      {
+        "id": "yellow",
+        "name": "Amarillo",
+        "asset": "iphone-11-yellow",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2011%20Yellow.png"
+      }
+    ],
+    "defaultColor": "black"
+  },
+  {
+    "id": "iphone-11-pro",
+    "name": "iPhone 11 Pro",
+    "width": 375,
+    "height": 812,
+    "top": 44,
+    "bottom": 34,
+    "colors": [
+      {
+        "id": "gold",
+        "name": "Dorado",
+        "asset": "iphone-11-pro-gold",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2011%20Pro%20Gold.png"
+      },
+      {
+        "id": "midnight-green",
+        "name": "Verde noche",
+        "asset": "iphone-11-pro-midnight-green",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2011%20Pro%20Midnight%20Green.png"
+      },
+      {
+        "id": "silver",
+        "name": "Plata",
+        "asset": "iphone-11-pro-silver",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2011%20Pro%20Silver.png"
+      },
+      {
+        "id": "space-gray",
+        "name": "Gris espacial",
+        "asset": "iphone-11-pro-space-gray",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2011%20Pro%20Space%20Gray.png"
+      }
+    ],
+    "defaultColor": "gold"
+  },
+  {
+    "id": "iphone-11-pro-max",
+    "name": "iPhone 11 Pro Max",
+    "width": 414,
+    "height": 896,
+    "top": 44,
+    "bottom": 34,
+    "colors": [
+      {
+        "id": "gold",
+        "name": "Dorado",
+        "asset": "iphone-11-pro-max-gold",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2011%20Pro%20Max%20Gold.png"
+      },
+      {
+        "id": "midnight-green",
+        "name": "Verde noche",
+        "asset": "iphone-11-pro-max-midnight-green",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2011%20Pro%20Max%20Midnight%20Green.png"
+      },
+      {
+        "id": "silver",
+        "name": "Plata",
+        "asset": "iphone-11-pro-max-silver",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2011%20Pro%20Max%20Silver.png"
+      },
+      {
+        "id": "space-gray",
+        "name": "Gris espacial",
+        "asset": "iphone-11-pro-max-space-gray",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2011%20Pro%20Max%20Space%20Gray.png"
+      }
+    ],
+    "defaultColor": "gold"
+  },
+  {
+    "id": "iphone-12",
+    "name": "iPhone 12",
+    "width": 390,
+    "height": 844,
+    "top": 47,
+    "bottom": 34,
+    "colors": [
+      {
+        "id": "black",
+        "name": "Negro",
+        "asset": "iphone-12-black",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2012%20Black.png"
+      },
+      {
+        "id": "blue",
+        "name": "Azul",
+        "asset": "iphone-12-blue",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2012%20Blue.png"
+      },
+      {
+        "id": "green",
+        "name": "Verde",
+        "asset": "iphone-12-green",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2012%20Green.png"
+      },
+      {
+        "id": "red",
+        "name": "Rojo",
+        "asset": "iphone-12-red",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2012%20Red.png"
+      },
+      {
+        "id": "white",
+        "name": "Blanco",
+        "asset": "iphone-12-white",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2012%20White.png"
+      }
+    ],
+    "defaultColor": "black"
+  },
+  {
+    "id": "iphone-12-mini",
+    "name": "iPhone 12 mini",
+    "width": 375,
+    "height": 812,
+    "top": 50,
+    "bottom": 34,
+    "colors": [
+      {
+        "id": "black",
+        "name": "Negro",
+        "asset": "iphone-12-mini-black",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2012%20Mini%20Black.png"
+      },
+      {
+        "id": "blue",
+        "name": "Azul",
+        "asset": "iphone-12-mini-blue",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2012%20Mini%20Blue.png"
+      },
+      {
+        "id": "green",
+        "name": "Verde",
+        "asset": "iphone-12-mini-green",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2012%20Mini%20Green.png"
+      },
+      {
+        "id": "red",
+        "name": "Rojo",
+        "asset": "iphone-12-mini-red",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2012%20Mini%20Red.png"
+      },
+      {
+        "id": "white",
+        "name": "Blanco",
+        "asset": "iphone-12-mini-white",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2012%20Mini%20White.png"
+      }
+    ],
+    "defaultColor": "black"
+  },
+  {
+    "id": "iphone-12-pro",
+    "name": "iPhone 12 Pro",
+    "width": 390,
+    "height": 844,
+    "top": 47,
+    "bottom": 34,
+    "colors": [
+      {
+        "id": "gold",
+        "name": "Dorado",
+        "asset": "iphone-12-pro-gold",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2012%20Pro%20Gold.png"
+      },
+      {
+        "id": "graphite",
+        "name": "Grafito",
+        "asset": "iphone-12-pro-graphite",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2012%20Pro%20Graphite.png"
+      },
+      {
+        "id": "pacific-blue",
+        "name": "Azul pacífico",
+        "asset": "iphone-12-pro-pacific-blue",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2012%20Pro%20Pacific%20Blue.png"
+      },
+      {
+        "id": "silver",
+        "name": "Plata",
+        "asset": "iphone-12-pro-silver",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2012%20Pro%20Silver.png"
+      }
+    ],
+    "defaultColor": "gold"
+  },
+  {
+    "id": "iphone-12-pro-max",
+    "name": "iPhone 12 Pro Max",
+    "width": 428,
+    "height": 926,
+    "top": 47,
+    "bottom": 34,
+    "colors": [
+      {
+        "id": "gold",
+        "name": "Dorado",
+        "asset": "iphone-12-pro-max-gold",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2012%20Pro%20Max%20Gold.png"
+      },
+      {
+        "id": "graphite",
+        "name": "Grafito",
+        "asset": "iphone-12-pro-max-graphite",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2012%20Pro%20Max%20Graphite.png"
+      },
+      {
+        "id": "pacific-blue",
+        "name": "Azul pacífico",
+        "asset": "iphone-12-pro-max-pacific-blue",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2012%20Pro%20Max%20Pacific%20Blue.png"
+      },
+      {
+        "id": "silver",
+        "name": "Plata",
+        "asset": "iphone-12-pro-max-silver",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2012%20Pro%20Max%20Silver.png"
+      }
+    ],
+    "defaultColor": "gold"
+  },
+  {
+    "id": "iphone-13",
+    "name": "iPhone 13",
+    "width": 390,
+    "height": 844,
+    "top": 47,
+    "bottom": 34,
+    "colors": [
+      {
+        "id": "blue",
+        "name": "Azul",
+        "asset": "iphone-13-blue",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2013%20Blue.png"
+      },
+      {
+        "id": "midnight",
+        "name": "Medianoche",
+        "asset": "iphone-13-midnight",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2013%20Midnight.png"
+      },
+      {
+        "id": "pink",
+        "name": "Rosa",
+        "asset": "iphone-13-pink",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2013%20Pink.png"
+      },
+      {
+        "id": "red",
+        "name": "Rojo",
+        "asset": "iphone-13-red",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2013%20Red.png"
+      },
+      {
+        "id": "starlight",
+        "name": "Blanco estrella",
+        "asset": "iphone-13-starlight",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2013%20Starlight.png"
+      }
+    ],
+    "defaultColor": "midnight"
+  },
+  {
+    "id": "iphone-13-mini",
+    "name": "iPhone 13 mini",
+    "width": 375,
+    "height": 812,
+    "top": 50,
+    "bottom": 34,
+    "colors": [
+      {
+        "id": "blue",
+        "name": "Azul",
+        "asset": "iphone-13-mini-blue",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2013%20Mini%20Blue.png"
+      },
+      {
+        "id": "midnight",
+        "name": "Medianoche",
+        "asset": "iphone-13-mini-midnight",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2013%20Mini%20Midnight.png"
+      },
+      {
+        "id": "pink",
+        "name": "Rosa",
+        "asset": "iphone-13-mini-pink",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2013%20Mini%20Pink.png"
+      },
+      {
+        "id": "red",
+        "name": "Rojo",
+        "asset": "iphone-13-mini-red",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2013%20Mini%20Red.png"
+      },
+      {
+        "id": "starlight",
+        "name": "Blanco estrella",
+        "asset": "iphone-13-mini-starlight",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2013%20Mini%20Starlight.png"
+      }
+    ],
+    "defaultColor": "blue"
+  },
+  {
+    "id": "iphone-13-pro",
+    "name": "iPhone 13 Pro",
+    "width": 390,
+    "height": 844,
+    "top": 47,
+    "bottom": 34,
+    "colors": [
+      {
+        "id": "gold",
+        "name": "Dorado",
+        "asset": "iphone-13-pro-gold",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2013%20Pro%20Gold.png"
+      },
+      {
+        "id": "graphite",
+        "name": "Grafito",
+        "asset": "iphone-13-pro-graphite",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2013%20Pro%20Graphite.png"
+      },
+      {
+        "id": "sierra-blue",
+        "name": "Azul sierra",
+        "asset": "iphone-13-pro-sierra-blue",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2013%20Pro%20Sierra%20Blue.png"
+      },
+      {
+        "id": "silver",
+        "name": "Plata",
+        "asset": "iphone-13-pro-silver",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2013%20Pro%20Silver.png"
+      }
+    ],
+    "defaultColor": "gold"
+  },
+  {
+    "id": "iphone-13-pro-max",
+    "name": "iPhone 13 Pro Max",
+    "width": 428,
+    "height": 926,
+    "top": 47,
+    "bottom": 34,
+    "colors": [
+      {
+        "id": "gold",
+        "name": "Dorado",
+        "asset": "iphone-13-pro-max-gold",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2013%20Pro%20Max%20Gold.png"
+      },
+      {
+        "id": "graphite",
+        "name": "Grafito",
+        "asset": "iphone-13-pro-max-graphite",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2013%20Pro%20Max%20Graphite.png"
+      },
+      {
+        "id": "sierra-blue",
+        "name": "Azul sierra",
+        "asset": "iphone-13-pro-max-sierra-blue",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2013%20Pro%20Max%20Sierra%20Blue.png"
+      },
+      {
+        "id": "silver",
+        "name": "Plata",
+        "asset": "iphone-13-pro-max-silver",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2013%20Pro%20Max%20Silver.png"
+      }
+    ],
+    "defaultColor": "gold"
+  },
+  {
+    "id": "iphone-14",
+    "name": "iPhone 14",
+    "width": 390,
+    "height": 844,
+    "top": 47,
+    "bottom": 34,
+    "colors": [
+      {
+        "id": "blue",
+        "name": "Azul",
+        "asset": "iphone-14-blue",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2014%20Blue.png"
+      },
+      {
+        "id": "midnight",
+        "name": "Medianoche",
+        "asset": "iphone-14-midnight",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2014%20Midnight.png"
+      },
+      {
+        "id": "purple",
+        "name": "Morado",
+        "asset": "iphone-14-purple",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2014%20Purple.png"
+      },
+      {
+        "id": "red",
+        "name": "Rojo",
+        "asset": "iphone-14-red",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2014%20Red.png"
+      },
+      {
+        "id": "starlight",
+        "name": "Blanco estrella",
+        "asset": "iphone-14-starlight",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2014%20Starlight.png"
+      }
+    ],
+    "defaultColor": "blue"
+  },
+  {
+    "id": "iphone-14-plus",
+    "name": "iPhone 14 Plus",
+    "width": 428,
+    "height": 926,
+    "top": 47,
+    "bottom": 34,
+    "colors": [
+      {
+        "id": "blue",
+        "name": "Azul",
+        "asset": "iphone-14-plus-blue",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2014%20Plus%20Blue.png"
+      },
+      {
+        "id": "midnight",
+        "name": "Medianoche",
+        "asset": "iphone-14-plus-midnight",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2014%20Plus%20Midnight.png"
+      },
+      {
+        "id": "purple",
+        "name": "Morado",
+        "asset": "iphone-14-plus-purple",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2014%20Plus%20Purple.png"
+      },
+      {
+        "id": "red",
+        "name": "Rojo",
+        "asset": "iphone-14-plus-red",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2014%20Plus%20Red.png"
+      },
+      {
+        "id": "starlight",
+        "name": "Blanco estrella",
+        "asset": "iphone-14-plus-starlight",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2014%20Plus%20Starlight.png"
+      }
+    ],
+    "defaultColor": "blue"
+  },
+  {
+    "id": "iphone-14-pro",
+    "name": "iPhone 14 Pro",
+    "width": 393,
+    "height": 852,
+    "top": 59,
+    "bottom": 34,
+    "colors": [
+      {
+        "id": "space-black",
+        "name": "Negro espacial",
+        "asset": "iphone-14-pro-space-black",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2014%20Pro%20Black.png"
+      },
+      {
+        "id": "gold",
+        "name": "Dorado",
+        "asset": "iphone-14-pro-gold",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2014%20Pro%20Gold.png"
+      },
+      {
+        "id": "deep-purple",
+        "name": "Morado oscuro",
+        "asset": "iphone-14-pro-deep-purple",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2014%20Pro%20Purple.png"
+      },
+      {
+        "id": "silver",
+        "name": "Plata",
+        "asset": "iphone-14-pro-silver",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2014%20Pro%20Silver.png"
+      }
+    ],
+    "defaultColor": "deep-purple"
+  },
+  {
+    "id": "iphone-14-pro-max",
+    "name": "iPhone 14 Pro Max",
+    "width": 430,
+    "height": 932,
+    "top": 59,
+    "bottom": 34,
+    "colors": [
+      {
+        "id": "space-black",
+        "name": "Negro espacial",
+        "asset": "iphone-14-pro-max-space-black",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2014%20Pro%20Max%20Black.png"
+      },
+      {
+        "id": "gold",
+        "name": "Dorado",
+        "asset": "iphone-14-pro-max-gold",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2014%20Pro%20Max%20Gold.png"
+      },
+      {
+        "id": "deep-purple",
+        "name": "Morado oscuro",
+        "asset": "iphone-14-pro-max-deep-purple",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2014%20Pro%20Max%20Purple.png"
+      },
+      {
+        "id": "silver",
+        "name": "Plata",
+        "asset": "iphone-14-pro-max-silver",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2014%20Pro%20Max%20Silver.png"
+      }
+    ],
+    "defaultColor": "space-black"
+  },
+  {
+    "id": "iphone-16",
+    "name": "iPhone 16",
+    "width": 393,
+    "height": 852,
+    "top": 59,
+    "bottom": 34,
+    "colors": [
+      {
+        "id": "black",
+        "name": "Negro",
+        "asset": "iphone-16-black",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2016%20Black.png"
+      },
+      {
+        "id": "pink",
+        "name": "Rosa",
+        "asset": "iphone-16-pink",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2016%20Pink.png"
+      },
+      {
+        "id": "teal",
+        "name": "Verde azulado",
+        "asset": "iphone-16-teal",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2016%20Teal.png"
+      },
+      {
+        "id": "ultramarine",
+        "name": "Azul ultramar",
+        "asset": "iphone-16-ultramarine",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2016%20Ultramarine.png"
+      },
+      {
+        "id": "white",
+        "name": "Blanco",
+        "asset": "iphone-16-white",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2016%20White.png"
+      }
+    ],
+    "defaultColor": "black"
+  },
+  {
+    "id": "iphone-16-plus",
+    "name": "iPhone 16 Plus",
+    "width": 430,
+    "height": 932,
+    "top": 59,
+    "bottom": 34,
+    "colors": [
+      {
+        "id": "black",
+        "name": "Negro",
+        "asset": "iphone-16-plus-black",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2016%20Plus%20Black.png"
+      },
+      {
+        "id": "pink",
+        "name": "Rosa",
+        "asset": "iphone-16-plus-pink",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2016%20Plus%20Pink.png"
+      },
+      {
+        "id": "teal",
+        "name": "Verde azulado",
+        "asset": "iphone-16-plus-teal",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2016%20Plus%20Teal.png"
+      },
+      {
+        "id": "ultramarine",
+        "name": "Azul ultramar",
+        "asset": "iphone-16-plus-ultramarine",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2016%20Plus%20Ultramarine.png"
+      },
+      {
+        "id": "white",
+        "name": "Blanco",
+        "asset": "iphone-16-plus-white",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2016%20Plus%20White.png"
+      }
+    ],
+    "defaultColor": "black"
+  },
+  {
+    "id": "iphone-16-pro",
+    "name": "iPhone 16 Pro",
+    "width": 402,
+    "height": 874,
+    "top": 62,
+    "bottom": 34,
+    "colors": [
+      {
+        "id": "black-titanium",
+        "name": "Titanio negro",
+        "asset": "iphone-16-pro-black-titanium",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2016%20Pro%20Black%20Titanium.png"
+      },
+      {
+        "id": "desert-titanium",
+        "name": "Titanio desierto",
+        "asset": "iphone-16-pro-desert-titanium",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2016%20Pro%20Desert%20Titanium.png"
+      },
+      {
+        "id": "natural-titanium",
+        "name": "Titanio natural",
+        "asset": "iphone-16-pro-natural-titanium",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2016%20Pro%20Natural%20Titanium.png"
+      },
+      {
+        "id": "white-titanium",
+        "name": "Titanio blanco",
+        "asset": "iphone-16-pro-white-titanium",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2016%20Pro%20White%20Titanium.png"
+      }
+    ],
+    "defaultColor": "black-titanium"
+  },
+  {
+    "id": "iphone-16-pro-max",
+    "name": "iPhone 16 Pro Max",
+    "width": 440,
+    "height": 956,
+    "top": 62,
+    "bottom": 34,
+    "colors": [
+      {
+        "id": "black-titanium",
+        "name": "Titanio negro",
+        "asset": "iphone-16-pro-max-black-titanium",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2016%20Pro%20Max%20Black%20Titanium.png"
+      },
+      {
+        "id": "desert-titanium",
+        "name": "Titanio desierto",
+        "asset": "iphone-16-pro-max-desert-titanium",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2016%20Pro%20Max%20Desert%20Titanium.png"
+      },
+      {
+        "id": "natural-titanium",
+        "name": "Titanio natural",
+        "asset": "iphone-16-pro-max-natural-titanium",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2016%20Pro%20Max%20Natural%20Titanium.png"
+      },
+      {
+        "id": "white-titanium",
+        "name": "Titanio blanco",
+        "asset": "iphone-16-pro-max-white-titanium",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2016%20Pro%20Max%20White%20Titanium.png"
+      }
+    ],
+    "defaultColor": "black-titanium"
+  },
+  {
+    "id": "iphone-17",
+    "name": "iPhone 17",
+    "width": 402,
+    "height": 874,
+    "top": 62,
+    "bottom": 34,
+    "colors": [
+      {
+        "id": "black",
+        "name": "Negro",
+        "asset": "iphone-17-black",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2017%20Black.png"
+      },
+      {
+        "id": "lavender",
+        "name": "Lavanda",
+        "asset": "iphone-17-lavender",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2017%20Lavender.png"
+      },
+      {
+        "id": "mist-blue",
+        "name": "Azul neblina",
+        "asset": "iphone-17-mist-blue",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2017%20Mist%20Blue.png"
+      },
+      {
+        "id": "sage",
+        "name": "Verde salvia",
+        "asset": "iphone-17-sage",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2017%20Sage.png"
+      },
+      {
+        "id": "white",
+        "name": "Blanco",
+        "asset": "iphone-17-white",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2017%20White.png"
+      }
+    ],
+    "defaultColor": "black"
+  },
+  {
+    "id": "iphone-17-pro",
+    "name": "iPhone 17 Pro",
+    "width": 402,
+    "height": 874,
+    "top": 62,
+    "bottom": 34,
+    "colors": [
+      {
+        "id": "cosmic-orange",
+        "name": "Naranja cósmico",
+        "asset": "iphone-17-pro-cosmic-orange",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2017%20Pro%20Cosmic%20Orange.png"
+      },
+      {
+        "id": "deep-blue",
+        "name": "Azul profundo",
+        "asset": "iphone-17-pro-deep-blue",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2017%20Pro%20Deep%20Blue.png"
+      },
+      {
+        "id": "silver",
+        "name": "Plata",
+        "asset": "iphone-17-pro-silver",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2017%20Pro%20Silver.png"
+      }
+    ],
+    "defaultColor": "cosmic-orange"
+  },
+  {
+    "id": "iphone-17-pro-max",
+    "name": "iPhone 17 Pro Max",
+    "width": 440,
+    "height": 956,
+    "top": 62,
+    "bottom": 34,
+    "colors": [
+      {
+        "id": "cosmic-orange",
+        "name": "Naranja cósmico",
+        "asset": "iphone-17-pro-max-cosmic-orange",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2017%20Pro%20Max%20Cosmic%20Orange.png"
+      },
+      {
+        "id": "deep-blue",
+        "name": "Azul profundo",
+        "asset": "iphone-17-pro-max-deep-blue",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2017%20Pro%20Max%20Deep%20Blue.png"
+      },
+      {
+        "id": "silver",
+        "name": "Plata",
+        "asset": "iphone-17-pro-max-silver",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%2017%20Pro%20Max%20Silver.png"
+      }
+    ],
+    "defaultColor": "cosmic-orange"
+  },
+  {
+    "id": "iphone-se",
+    "name": "iPhone SE (2.ª generación)",
+    "width": 375,
+    "height": 667,
+    "top": 20,
+    "bottom": 0,
+    "colors": [
+      {
+        "id": "black",
+        "name": "Negro",
+        "asset": "iphone-se-black",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%20SE%20(2nd%20generation)%20Black.png"
+      },
+      {
+        "id": "red",
+        "name": "Rojo",
+        "asset": "iphone-se-red",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%20SE%20(2nd%20generation)%20Red.png"
+      },
+      {
+        "id": "white",
+        "name": "Blanco",
+        "asset": "iphone-se-white",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%20SE%20(2nd%20generation)%20White.png"
+      }
+    ],
+    "defaultColor": "black"
+  },
+  {
+    "id": "iphone-x",
+    "name": "iPhone X",
+    "width": 375,
+    "height": 812,
+    "top": 44,
+    "bottom": 34,
+    "colors": [
+      {
+        "id": "silver",
+        "name": "Plata",
+        "asset": "iphone-x-silver",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%20X%20Silver.png"
+      },
+      {
+        "id": "space-gray",
+        "name": "Gris espacial",
+        "asset": "iphone-x-space-gray",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%20X%20Space%20Gray.png"
+      }
+    ],
+    "defaultColor": "silver"
+  },
+  {
+    "id": "iphone-xr",
+    "name": "iPhone XR",
+    "width": 414,
+    "height": 896,
+    "top": 44,
+    "bottom": 34,
+    "colors": [
+      {
+        "id": "blue",
+        "name": "Azul",
+        "asset": "iphone-xr-blue",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%20XR%20Blue.png"
+      },
+      {
+        "id": "coral",
+        "name": "Coral",
+        "asset": "iphone-xr-coral",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%20XR%20Coral.png"
+      },
+      {
+        "id": "red",
+        "name": "Rojo",
+        "asset": "iphone-xr-red",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%20XR%20Red.png"
+      },
+      {
+        "id": "white",
+        "name": "Blanco",
+        "asset": "iphone-xr-white",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%20XR%20Silver.png"
+      },
+      {
+        "id": "black",
+        "name": "Negro",
+        "asset": "iphone-xr-black",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%20XR%20Space%20Gray.png"
+      },
+      {
+        "id": "yellow",
+        "name": "Amarillo",
+        "asset": "iphone-xr-yellow",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%20XR%20Yellow.png"
+      }
+    ],
+    "defaultColor": "blue"
+  },
+  {
+    "id": "iphone-xs",
+    "name": "iPhone XS",
+    "width": 375,
+    "height": 812,
+    "top": 44,
+    "bottom": 34,
+    "colors": [
+      {
+        "id": "gold",
+        "name": "Dorado",
+        "asset": "iphone-xs-gold",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%20XS%20Gold.png"
+      },
+      {
+        "id": "silver",
+        "name": "Plata",
+        "asset": "iphone-xs-silver",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%20XS%20Silver.png"
+      },
+      {
+        "id": "space-gray",
+        "name": "Gris espacial",
+        "asset": "iphone-xs-space-gray",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%20XS%20Space%20Gray.png"
+      }
+    ],
+    "defaultColor": "gold"
+  },
+  {
+    "id": "iphone-xs-max",
+    "name": "iPhone XS Max",
+    "width": 414,
+    "height": 896,
+    "top": 44,
+    "bottom": 34,
+    "colors": [
+      {
+        "id": "gold",
+        "name": "Dorado",
+        "asset": "iphone-xs-max-gold",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%20XS%20Max%20Gold.png"
+      },
+      {
+        "id": "silver",
+        "name": "Plata",
+        "asset": "iphone-xs-max-silver",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%20XS%20Max%20Silver.png"
+      },
+      {
+        "id": "space-gray",
+        "name": "Gris espacial",
+        "asset": "iphone-xs-max-space-gray",
+        "source": "https://raw.githubusercontent.com/fastlane/frameit-frames/b5e1961021f590b58cfc95138799032accc99496/latest/Apple%20iPhone%20XS%20Max%20Space%20Gray.png"
+      }
+    ],
+    "defaultColor": "gold"
+  },
+  {
+    "id": "iphone-15-plus",
+    "name": "iPhone 15 Plus",
+    "width": 430,
+    "height": 932,
+    "top": 59,
+    "bottom": 34,
+    "colors": [
+      {
+        "id": "black",
+        "name": "Negro",
+        "asset": "iphone-15-plus-black",
+        "source": "https://raw.githubusercontent.com/blaineam/Monkr/a70294570f5a92255506c315dd7782368dd07c45/static/devices/iphone-15-plus/black.png"
+      },
+      {
+        "id": "blue",
+        "name": "Azul",
+        "asset": "iphone-15-plus-blue",
+        "source": "https://raw.githubusercontent.com/blaineam/Monkr/a70294570f5a92255506c315dd7782368dd07c45/static/devices/iphone-15-plus/blue.png"
+      },
+      {
+        "id": "green",
+        "name": "Verde",
+        "asset": "iphone-15-plus-green",
+        "source": "https://raw.githubusercontent.com/blaineam/Monkr/a70294570f5a92255506c315dd7782368dd07c45/static/devices/iphone-15-plus/green.png"
+      },
+      {
+        "id": "pink",
+        "name": "Rosa",
+        "asset": "iphone-15-plus-pink",
+        "source": "https://raw.githubusercontent.com/blaineam/Monkr/a70294570f5a92255506c315dd7782368dd07c45/static/devices/iphone-15-plus/pink.png"
+      },
+      {
+        "id": "yellow",
+        "name": "Amarillo",
+        "asset": "iphone-15-plus-yellow",
+        "source": "https://raw.githubusercontent.com/blaineam/Monkr/a70294570f5a92255506c315dd7782368dd07c45/static/devices/iphone-15-plus/yellow.png"
+      }
+    ],
+    "defaultColor": "black"
+  },
+  {
+    "id": "iphone-15-pro-max",
+    "name": "iPhone 15 Pro Max",
+    "width": 430,
+    "height": 932,
+    "top": 59,
+    "bottom": 34,
+    "colors": [
+      {
+        "id": "black-titanium",
+        "name": "Titanio negro",
+        "asset": "iphone-15-pro-max-black-titanium",
+        "source": "https://raw.githubusercontent.com/blaineam/Monkr/a70294570f5a92255506c315dd7782368dd07c45/static/devices/iphone-15-pro-max/black-titanium.png"
+      },
+      {
+        "id": "blue-titanium",
+        "name": "Titanio azul",
+        "asset": "iphone-15-pro-max-blue-titanium",
+        "source": "https://raw.githubusercontent.com/blaineam/Monkr/a70294570f5a92255506c315dd7782368dd07c45/static/devices/iphone-15-pro-max/dark-blue.png"
+      },
+      {
+        "id": "natural-titanium",
+        "name": "Titanio natural",
+        "asset": "iphone-15-pro-max-natural-titanium",
+        "source": "https://raw.githubusercontent.com/blaineam/Monkr/a70294570f5a92255506c315dd7782368dd07c45/static/devices/iphone-15-pro-max/natural-titanium.png"
+      },
+      {
+        "id": "white-titanium",
+        "name": "Titanio blanco",
+        "asset": "iphone-15-pro-max-white-titanium",
+        "source": "https://raw.githubusercontent.com/blaineam/Monkr/a70294570f5a92255506c315dd7782368dd07c45/static/devices/iphone-15-pro-max/white-titanium.png"
+      }
+    ],
+    "defaultColor": "black-titanium"
+  },
+  {
+    "id": "iphone-15-pro",
+    "name": "iPhone 15 Pro",
+    "width": 393,
+    "height": 852,
+    "top": 59,
+    "bottom": 34,
+    "colors": [
+      {
+        "id": "black-titanium",
+        "name": "Titanio negro",
+        "asset": "iphone-15-pro-black-titanium",
+        "source": "https://raw.githubusercontent.com/blaineam/Monkr/a70294570f5a92255506c315dd7782368dd07c45/static/devices/iphone-15-pro/black-titanium.png"
+      },
+      {
+        "id": "blue-titanium",
+        "name": "Titanio azul",
+        "asset": "iphone-15-pro-blue-titanium",
+        "source": "https://raw.githubusercontent.com/blaineam/Monkr/a70294570f5a92255506c315dd7782368dd07c45/static/devices/iphone-15-pro/dark-blue.png"
+      },
+      {
+        "id": "natural-titanium",
+        "name": "Titanio natural",
+        "asset": "iphone-15-pro-natural-titanium",
+        "source": "https://raw.githubusercontent.com/blaineam/Monkr/a70294570f5a92255506c315dd7782368dd07c45/static/devices/iphone-15-pro/natural-titanium.png"
+      },
+      {
+        "id": "white-titanium",
+        "name": "Titanio blanco",
+        "asset": "iphone-15-pro-white-titanium",
+        "source": "https://raw.githubusercontent.com/blaineam/Monkr/a70294570f5a92255506c315dd7782368dd07c45/static/devices/iphone-15-pro/white-titanium.png"
+      }
+    ],
+    "defaultColor": "blue-titanium"
+  },
+  {
+    "id": "iphone-15",
+    "name": "iPhone 15",
+    "width": 393,
+    "height": 852,
+    "top": 59,
+    "bottom": 34,
+    "colors": [
+      {
+        "id": "black",
+        "name": "Negro",
+        "asset": "iphone-15-black",
+        "source": "https://raw.githubusercontent.com/blaineam/Monkr/a70294570f5a92255506c315dd7782368dd07c45/static/devices/iphone-15/black.png"
+      },
+      {
+        "id": "blue",
+        "name": "Azul",
+        "asset": "iphone-15-blue",
+        "source": "https://raw.githubusercontent.com/blaineam/Monkr/a70294570f5a92255506c315dd7782368dd07c45/static/devices/iphone-15/blue.png"
+      },
+      {
+        "id": "green",
+        "name": "Verde",
+        "asset": "iphone-15-green",
+        "source": "https://raw.githubusercontent.com/blaineam/Monkr/a70294570f5a92255506c315dd7782368dd07c45/static/devices/iphone-15/green.png"
+      },
+      {
+        "id": "pink",
+        "name": "Rosa",
+        "asset": "iphone-15-pink",
+        "source": "https://raw.githubusercontent.com/blaineam/Monkr/a70294570f5a92255506c315dd7782368dd07c45/static/devices/iphone-15/pink.png"
+      },
+      {
+        "id": "yellow",
+        "name": "Amarillo",
+        "asset": "iphone-15-yellow",
+        "source": "https://raw.githubusercontent.com/blaineam/Monkr/a70294570f5a92255506c315dd7782368dd07c45/static/devices/iphone-15/yellow.png"
+      }
+    ],
+    "defaultColor": "pink"
+  },
+  {
+    "id": "iphone-air",
+    "name": "iPhone Air",
+    "width": 420,
+    "height": 912,
+    "top": 62,
+    "bottom": 34,
+    "colors": [
+      {
+        "id": "cloud-white",
+        "name": "Blanco nube",
+        "asset": "iphone-air-cloud-white",
+        "source": "https://raw.githubusercontent.com/blaineam/Monkr/a70294570f5a92255506c315dd7782368dd07c45/static/devices/iphone-17-air/cloud-white.png"
+      },
+      {
+        "id": "light-gold",
+        "name": "Dorado claro",
+        "asset": "iphone-air-light-gold",
+        "source": "https://raw.githubusercontent.com/blaineam/Monkr/a70294570f5a92255506c315dd7782368dd07c45/static/devices/iphone-17-air/light-gold.png"
+      },
+      {
+        "id": "sky-blue",
+        "name": "Azul cielo",
+        "asset": "iphone-air-sky-blue",
+        "source": "https://raw.githubusercontent.com/blaineam/Monkr/a70294570f5a92255506c315dd7782368dd07c45/static/devices/iphone-17-air/sky-blue.png"
+      },
+      {
+        "id": "space-black",
+        "name": "Negro espacial",
+        "asset": "iphone-air-space-black",
+        "source": "https://raw.githubusercontent.com/blaineam/Monkr/a70294570f5a92255506c315dd7782368dd07c45/static/devices/iphone-17-air/space-black.png"
+      }
+    ],
+    "defaultColor": "cloud-white"
+  },
+  {
+    "id": "iphone-18-pro-max",
+    "name": "iPhone 18 Pro Max",
+    "width": 440,
+    "height": 956,
+    "top": 62,
+    "bottom": 34,
+    "colors": [
+      {
+        "id": "black",
+        "name": "Negro",
+        "asset": "iphone-18-pro-max-black",
+        "source": "https://raw.githubusercontent.com/blaineam/Monkr/a70294570f5a92255506c315dd7782368dd07c45/static/devices/iphone-18-pro-max/black.png"
+      },
+      {
+        "id": "burgundy",
+        "name": "Bordó",
+        "asset": "iphone-18-pro-max-burgundy",
+        "source": "https://raw.githubusercontent.com/blaineam/Monkr/a70294570f5a92255506c315dd7782368dd07c45/static/devices/iphone-18-pro-max/burgundy.png"
+      },
+      {
+        "id": "glacier",
+        "name": "Glaciar",
+        "asset": "iphone-18-pro-max-glacier",
+        "source": "https://raw.githubusercontent.com/blaineam/Monkr/a70294570f5a92255506c315dd7782368dd07c45/static/devices/iphone-18-pro-max/glacier.png"
+      },
+      {
+        "id": "silver",
+        "name": "Plata",
+        "asset": "iphone-18-pro-max-silver",
+        "source": "https://raw.githubusercontent.com/blaineam/Monkr/a70294570f5a92255506c315dd7782368dd07c45/static/devices/iphone-18-pro-max/silver.png"
+      }
+    ],
+    "defaultColor": "black"
+  },
+  {
+    "id": "iphone-18-pro",
+    "name": "iPhone 18 Pro",
+    "width": 402,
+    "height": 874,
+    "top": 62,
+    "bottom": 34,
+    "colors": [
+      {
+        "id": "black",
+        "name": "Negro",
+        "asset": "iphone-18-pro-black",
+        "source": "https://raw.githubusercontent.com/blaineam/Monkr/a70294570f5a92255506c315dd7782368dd07c45/static/devices/iphone-18-pro/black.png"
+      },
+      {
+        "id": "burgundy",
+        "name": "Bordó",
+        "asset": "iphone-18-pro-burgundy",
+        "source": "https://raw.githubusercontent.com/blaineam/Monkr/a70294570f5a92255506c315dd7782368dd07c45/static/devices/iphone-18-pro/burgundy.png"
+      },
+      {
+        "id": "glacier",
+        "name": "Glaciar",
+        "asset": "iphone-18-pro-glacier",
+        "source": "https://raw.githubusercontent.com/blaineam/Monkr/a70294570f5a92255506c315dd7782368dd07c45/static/devices/iphone-18-pro/glacier.png"
+      },
+      {
+        "id": "silver",
+        "name": "Plata",
+        "asset": "iphone-18-pro-silver",
+        "source": "https://raw.githubusercontent.com/blaineam/Monkr/a70294570f5a92255506c315dd7782368dd07c45/static/devices/iphone-18-pro/silver.png"
+      }
+    ],
+    "defaultColor": "black"
+  }
+]
