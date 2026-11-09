@@ -1,7 +1,7 @@
 import { createServer } from "vite"
 import { spawn } from "node:child_process"
 
-const tests = ["action", "popup-native", "extension", "capture-quality", "inline", "p1", "editor", "pdf"]
+const tests = ["action", "permissions", "popup-native", "extension", "capture-quality", "inline", "p1", "editor", "pdf"]
 const selected = process.argv.slice(2)
 if (selected.some(name => !tests.includes(name))) throw new Error("Unknown browser test")
 const names = selected.length ? selected : tests
