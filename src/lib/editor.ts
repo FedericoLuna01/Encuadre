@@ -4,6 +4,21 @@ export interface Rect extends Point { width: number; height: number }
 export type Tool = "crop" | "arrow" | "rectangle" | "text" | "highlight" | "redact"
 export interface Mark { tool: Exclude<Tool, "crop">; from: Point; to: Point; color: string; size: number; text: string }
 export interface Edit { crop: Rect; marks: Mark[] }
+export type CropHandle = "move" | "n" | "s" | "e" | "w" | "nw" | "ne" | "sw" | "se"
+
+export function adjustCrop(box: Rect, handle: CropHandle, delta: Point, bounds: Rect): Rect {
+  const clamp = (value: number, min: number, max: number) => Math.max(min, Math.min(max, Math.round(value)))
+  if (handle === "move") return { ...box,
+    x: clamp(box.x + delta.x, bounds.x, bounds.x + bounds.width - box.width),
+    y: clamp(box.y + delta.y, bounds.y, bounds.y + bounds.height - box.height) }
+  let { x, y } = box
+  let right = x + box.width, bottom = y + box.height
+  if (handle.includes("w")) x = clamp(x + delta.x, bounds.x, right - 1)
+  if (handle.includes("e")) right = clamp(right + delta.x, x + 1, bounds.x + bounds.width)
+  if (handle.includes("n")) y = clamp(y + delta.y, bounds.y, bottom - 1)
+  if (handle.includes("s")) bottom = clamp(bottom + delta.y, y + 1, bounds.y + bounds.height)
+  return { x, y, width: right - x, height: bottom - y }
+}
 
 export function selection(from: Point, to: Point, bounds: Rect): Rect {
   const x = Math.max(bounds.x, Math.min(from.x, to.x))

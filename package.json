@@ -15,6 +15,7 @@
     "test:quality": "node tests/capture-quality.mjs",
     "test:popup": "node tests/popup-native.mjs",
     "test:action": "node tests/action.mjs",
+    "test:permissions": "node scripts/test-e2e.mjs permissions",
     "test:devices": "node tests/inline.mjs",
     "test:inline": "node tests/inline.mjs",
     "test:p1": "node tests/p1.mjs",

@@ -26,6 +26,8 @@ function Result() {
   const [editorStarted, setEditorStarted] = useState(false)
   const [editorBusy, setEditorBusy] = useState(false)
   const [edited, setEdited] = useState<{ blob: Blob; edit: Edit }>()
+  const [currentEdit, setCurrentEdit] = useState<Edit>()
+  const [savedEdit, setSavedEdit] = useState<string>()
   const [editedUrl, setEditedUrl] = useState("")
   const [record, setRecord] = useState<CaptureRecord>()
   const [preferences, setPreferences] = useState<Preferences>(defaults)
@@ -45,6 +47,40 @@ function Result() {
   const [framing, setFraming] = useState(false)
   const [canvasSize, setCanvasSize] = useState({ width: 0, height: 0 })
   const canvas = useRef<HTMLDivElement>(null)
+  const copyButton = useRef<HTMLButtonElement>(null)
+  const [cropRequest, setCropRequest] = useState(0)
+
+  useEffect(() => {
+    const shortcut = (event: KeyboardEvent) => {
+      if (!record || loading || event.defaultPrevented || event.isComposing || event.repeat || event.altKey || event.shiftKey || event.target instanceof HTMLElement && event.target.closest("input, textarea, select, [contenteditable]:not([contenteditable=false])")) return
+      const key = event.key.toLowerCase(), modifier = event.ctrlKey || event.metaKey
+      if (modifier && key === "c") {
+        if (window.getSelection()?.toString()) return
+        event.preventDefault()
+        copyButton.current?.click()
+      } else if ((modifier && key === "t") || (!modifier && key === "c")) {
+        event.preventDefault()
+        if (working || framing || editorBusy) return
+        if (!editorStarted) { presentationBeforeEditing.current = withFrame; setEditorBusy(true) }
+        setEditorStarted(true); setWithFrame(false); setEditing(true)
+        setCropRequest(value => value + 1)
+      }
+    }
+    window.addEventListener("keydown", shortcut)
+    return () => window.removeEventListener("keydown", shortcut)
+  })
+
+  const hasEdits = !!currentEdit && !!record && (currentEdit.marks.length > 0 || currentEdit.crop.x !== 0 || currentEdit.crop.y !== 0 || currentEdit.crop.width !== record.width || currentEdit.crop.height !== record.height)
+  const unsavedEdits = hasEdits && JSON.stringify(currentEdit) !== savedEdit
+  useEffect(() => {
+    if (!unsavedEdits) return
+    const warnBeforeLeaving = (event: BeforeUnloadEvent) => {
+      event.preventDefault()
+      event.returnValue = "true"
+    }
+    window.addEventListener("beforeunload", warnBeforeLeaving)
+    return () => window.removeEventListener("beforeunload", warnBeforeLeaving)
+  }, [unsavedEdits])
 
   useEffect(() => {
     if (!copied) return
@@ -151,10 +187,13 @@ function Result() {
   }
 
   function cancelEditing() {
+    setCropRequest(0)
     setEditing(false)
     setEditorStarted(false)
     setEditorBusy(false)
     setEdited(undefined)
+    setCurrentEdit(undefined)
+    setSavedEdit(undefined)
     setEditedUrl("")
     setWithFrame(presentationBeforeEditing.current)
     setError("")
@@ -183,10 +222,12 @@ function Result() {
   async function download(format: ExportFormat = preferences.format) {
     if (!record) return
     setDownloaded(false)
+    const revision = edited ? JSON.stringify(edited.edit) : undefined
     const blob = await exportBlob(format)
     const url = URL.createObjectURL(blob)
     const anchor = document.createElement("a")
     anchor.href = url; anchor.download = filename(record, format); anchor.click()
+    setSavedEdit(revision)
     setTimeout(() => URL.revokeObjectURL(url), 10000)
     setDownloaded(true)
     if (format !== preferences.format) {
@@ -218,7 +259,7 @@ function Result() {
           </div>
         </div>
         <div className="image-viewport" ref={canvas}>
-          {editorStarted && <div className="editor-host" hidden={!editing}><CaptureEditor source={record.blob} width={record.width} height={record.height} scale={scale} onBusy={setEditorBusy} onChange={(blob, edit) => setEdited({ blob, edit })} onError={setError}/></div>}
+          {editorStarted && <div className="editor-host" hidden={!editing}><CaptureEditor source={record.blob} width={record.width} height={record.height} scale={scale} active={editing} cropRequest={cropRequest} onBusy={setEditorBusy} onEditChange={setCurrentEdit} onChange={(blob, edit) => setEdited({ blob, edit })} onError={setError}/></div>}
           <div className="image-scroll" hidden={editing} tabIndex={0} role="region" aria-label={t("Imagen capturada")} aria-describedby="preview-caption"><div className="image-stage" style={{ width: `calc(${dimensions.width * scale}px + 2 * var(--preview-padding))` }}><img className="captured-image" src={shownUrl} alt={withFrame && frameAvailable ? t("Captura de {title} con marco", { title: record.title }) : t("Captura de {title}", { title: record.title })} width={dimensions.width} height={dimensions.height} style={{ width: dimensions.width * scale, height: dimensions.height * scale }}/></div></div>
         </div>
         <div className="image-caption" id="preview-caption"><span>{t("{width} × {height} píxeles", { width: formatNumber(dimensions.width), height: formatNumber(dimensions.height) })}{record.partial ? ` · ${t("Captura parcial")}` : ""}</span><span>{editing ? t("Los cambios se aplican al descargar") : scrollable ? t("Desplazate para recorrer la captura") : t("Captura completa a la vista")}</span></div>
@@ -242,11 +283,15 @@ function Result() {
               </DropdownMenuContent>
             </DropdownMenu>
           </div>
-          <div className="result-copy-group"><Button variant="outline" className="w-full copy-image-button" data-copied={copied} aria-label={copied ? t("Imagen copiada") : t("Copiar imagen")} disabled={working || framing || editorBusy} onClick={() => void run(async () => {
+          <div className="result-copy-group"><Button ref={copyButton} variant="outline" className="w-full copy-image-button" data-copied={copied} title={t("Copiar imagen (Ctrl/⌘ C)")} aria-keyshortcuts="Control+c Meta+c" aria-label={copied ? t("Imagen copiada") : t("Copiar imagen")} disabled={working || framing || editorBusy} onClick={() => void run(async () => {
             setCopied(false)
             if (editorBusy) throw new Error(t("La edición todavía no está lista para copiar."))
             if (!navigator.clipboard?.write) throw new Error(t("Este navegador no permite copiar imágenes. Usá Descargar para guardar la captura."))
-            try { await navigator.clipboard.write([new ClipboardItem({ "image/png": withFrame && frameAvailable && framedBlob ? framedBlob : (edited?.blob ?? record.blob) })]); setCopied(true) }
+            const revision = edited ? JSON.stringify(edited.edit) : undefined
+            try {
+              await navigator.clipboard.write([new ClipboardItem({ "image/png": withFrame && frameAvailable && framedBlob ? framedBlob : (edited?.blob ?? record.blob) })])
+              setSavedEdit(revision); setCopied(true)
+            }
             catch { throw new Error(t("No se pudo copiar la imagen. Usá Descargar para guardarla.")) }
           })}>
             <span className="copy-image-labels" aria-hidden="true">
